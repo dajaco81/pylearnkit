@@ -1,0 +1,600 @@
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-56, 44, -40, 10, 27, -64, -9, 88], 'answer': -56}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [76, -59, 51, -73, 94], 'answer': 76}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-21, -15, 71, -86, -45], 'answer': -21}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [70, -16, -85, 38], 'answer': 70}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-11, 74, -69, -19, 28, -84], 'answer': -11}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [33, -100, -1, 98, -88, 6, 2, -39], 'answer': 33}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-47, -26, 6, 69], 'answer': -47}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [55, -48, -15, -80, -36, 99, -51], 'answer': 55}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-33, 66, 21, -72, -100], 'answer': -33}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [66, -45, 45, -20, -53, 8, 63, -7], 'answer': 66}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [6, 43, 52, 84], 'answer': 6}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-70, 27, -48, 44, 80, -68], 'answer': -70}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-37, -84, 37, 35, 52, -44, -8, -33], 'answer': -37}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-69, -25, 5, 10], 'answer': -69}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-18, -84, 83, -83, -20], 'answer': -18}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [88, -12, -67, 38, 28, -22, -36, -54], 'answer': 88}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [66, 72, -66, 36], 'answer': 66}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-47, -57, 32, 54], 'answer': -47}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [68, -4, -12, -62], 'answer': 68}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [81, 67, -59, -22], 'answer': 81}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-40, 88, 29, 31, -54, 8, -92], 'answer': -40}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [44, 26, -17, -67], 'answer': 44}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-17, 53, 29, -77, 60, -50, -1], 'answer': -17}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-69, 82, -66, -73, 79, 33], 'answer': -69}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-20, -31, 31, -53, 16, 79, -62], 'answer': -20}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-59, -54, -44, -35], 'answer': -59}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [29, -12, 6, -70, 35, -1, 69], 'answer': 29}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-19, -73, 25, 26, -43, 47], 'answer': -19}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-86, -95, -39, 60, 50, 21, -59, -72], 'answer': -86}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [4, 1, 74, -48, -30, -21, 69], 'answer': 4}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [94, 89, -14, 17, -5, -11], 'answer': 94}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-45, -71, 75, -70, -83, 96, -11], 'answer': -45}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [54, -99, 78, -94], 'answer': 54}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-59, 35, 41, 43, 21, -9], 'answer': -59}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [82, 65, 41, -68, -69], 'answer': 82}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [77, -65, 23, 34, -20, -27, 76], 'answer': 77}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-30, 47, 70, -14], 'answer': -30}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [22, 83, -59, -25, -2, 0], 'answer': 22}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-81, 88, -8, -77, 35, -98], 'answer': -81}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [27, 4, -99, -63, 99, -59], 'answer': 27}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [20, 34, -46, -72, -68], 'answer': 20}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [2, 41, -57, -52], 'answer': 2}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-73, -97, 37, 72, 47], 'answer': -73}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [10, 96, -40, -82, -89, -82], 'answer': 10}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [8, -3, 43, 32, -56, 98], 'answer': 8}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-10, -10, -38, 58, -26, -50, 76, -74], 'answer': -10}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [-35, 40, -95, -25, -16, 36, -45], 'answer': -35}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [32, -88, 16, -100, 32, 67, -60, -43], 'answer': 32}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [1, -9, -100, -31, 28, -30, 94], 'answer': 1}
+{'name': 'First_item', 'info': 'Return the first item in a list of numbers', 'payload': [31, -83, -89, 76, 0], 'answer': 31}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [75, 80, -50, 16, 22], 'answer': 22}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-2, -8, -70, 17], 'answer': 17}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [34, -9, -12, -58, -9, 95, -69, 40], 'answer': 40}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-65, 19, 91, -17, -100, -54], 'answer': -54}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [100, -15, -99, -88, -94], 'answer': -94}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-30, 50, -84, 57, -44], 'answer': -44}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-19, -85, -97, 55, -8, -20, 64, 74], 'answer': 74}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [64, -12, 90, -96, 26, 19], 'answer': 19}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-13, -4, -64, 59, 15, 7, 71, -65], 'answer': -65}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [45, -82, -27, 100], 'answer': 100}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-28, 41, 79, -24], 'answer': -24}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [76, -32, -29, 34, -48], 'answer': -48}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [70, 69, 11, 94], 'answer': 94}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-98, 58, 48, -82], 'answer': -82}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-81, -77, 97, 29], 'answer': 29}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-51, -61, -28, -23, -98, -14], 'answer': -14}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [74, -99, -26, -75, -92], 'answer': -92}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [14, 39, 15, -56, 99], 'answer': 99}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [64, -81, 51, -95, 76, 52], 'answer': 52}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [25, -20, -88, -86, 23, -34], 'answer': -34}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [74, -39, -31, -60, -90, 68, -36, 77], 'answer': 77}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [45, -93, -48, 58, 53, 62], 'answer': 62}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-91, -6, -82, -4, 40, -78], 'answer': -78}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [77, 57, -38, -83, -95, -92, -68, -45], 'answer': -45}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-83, -29, 74, 90], 'answer': 90}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-29, 72, -41, 95, 100], 'answer': 100}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [72, 93, 69, 17, -17], 'answer': -17}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-10, 18, -68, 64, -22], 'answer': -22}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-89, -70, -34, 69, 63, -37, -74, -28], 'answer': -28}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [75, -56, -55, -36, -8, -96, -78], 'answer': -78}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-88, 68, 82, 97], 'answer': 97}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [98, -29, -54, -85, -71, -79], 'answer': -79}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-35, -68, 19, 44, 50], 'answer': 50}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-75, 31, 24, 39, -86, -41, 70, -81], 'answer': -81}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [93, 64, 62, -69], 'answer': -69}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-89, -53, 38, 91, 30], 'answer': 30}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-79, -35, -80, -40, 51], 'answer': 51}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-26, 39, 43, -87], 'answer': -87}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-44, 31, -11, -37, 94], 'answer': 94}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [28, -7, 91, -24], 'answer': -24}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [26, 38, 100, -89, -30, 2], 'answer': 2}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-45, 86, 4, 24, -27, 44, -74, -5], 'answer': -5}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-35, 91, 84, -54, 23, 73, 20, 14], 'answer': 14}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [70, -20, -9, 67, 2], 'answer': 2}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-56, -40, -82, 71], 'answer': 71}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-70, -52, -20, -49], 'answer': -49}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [80, 94, 81, 59, 5, -94, -63, 31], 'answer': 31}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [-66, 48, 62, 46, -68], 'answer': -68}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [87, -65, 68, -13, -71, 78], 'answer': 78}
+{'name': 'Last_item', 'info': 'Return the last number in a list', 'payload': [77, -78, -75, 11, 58, 88, 81], 'answer': 81}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [58, -39, -33, 46, -54], 'answer': (-39, -33)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [62, -53, 36, 66, 99, 67, 40], 'answer': (-53, 36)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [93, 55, -30, 96], 'answer': (55, -30)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-92, 65, -8, 64], 'answer': (65, -8)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [64, -27, 61, -71], 'answer': (-27, 61)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-71, 82, 18, 95, 33, -16, 10, -96], 'answer': (82, 18)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [44, -89, 72, -70, 82], 'answer': (-89, 72)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-49, -86, -92, -91, 25, 13, -44], 'answer': (-86, -92)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [75, 71, -76, -17, -5], 'answer': (71, -76)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-34, 91, 29, 17], 'answer': (91, 29)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-57, 24, 57, 36, 65, 99], 'answer': (24, 57)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [9, -77, 54, -6, 91, -98], 'answer': (-77, 54)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-78, 37, 20, 60, 4], 'answer': (37, 20)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [10, -12, -7, -37, 41, 44], 'answer': (-12, -7)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [95, 84, -74, 78, 73], 'answer': (84, -74)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [76, -99, 97, 30, -67, 56, -21, 2], 'answer': (-99, 97)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [59, 56, 40, -88, -99, 69], 'answer': (56, 40)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-78, 19, 91, -31, 77, -9, -75], 'answer': (19, 91)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [21, 70, -1, -41, 74], 'answer': (70, -1)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-55, -94, -22, 80, -51, 64, 36], 'answer': (-94, -22)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [6, 81, -32, 26, 2], 'answer': (81, -32)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-49, 82, 97, 56], 'answer': (82, 97)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [38, 2, 79, -22], 'answer': (2, 79)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-49, -65, -42, -64, -52, 73, -89, 80], 'answer': (-65, -42)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-12, -15, 70, -23, -39], 'answer': (-15, 70)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-10, -64, -35, 65, 56, -61], 'answer': (-64, -35)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [28, 76, 5, -21], 'answer': (76, 5)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-63, -77, -5, -67, -9, -21], 'answer': (-77, -5)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [39, 47, 91, -68, 45, -33], 'answer': (47, 91)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-62, 43, -91, -82, 90, -22, -18], 'answer': (43, -91)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [51, -54, -37, -37, 25, -73, -3], 'answer': (-54, -37)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [35, -99, 95, 71, 14, 15, -24, 18], 'answer': (-99, 95)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-97, -83, -52, -64, -80], 'answer': (-83, -52)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [31, -90, 87, -44, -79, -56, -93], 'answer': (-90, 87)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [43, -25, -16, -16], 'answer': (-25, -16)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-9, 98, -93, 58, 68], 'answer': (98, -93)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [52, -75, -84, -62, 63], 'answer': (-75, -84)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [96, -38, -11, 1], 'answer': (-38, -11)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [87, -100, 16, 14, 0, 3], 'answer': (-100, 16)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [50, -32, -100, -1, -42, 86, -20, 6], 'answer': (-32, -100)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-49, 59, 44, -19], 'answer': (59, 44)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-56, 29, 69, -77, -70], 'answer': (29, 69)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [36, -63, 54, -74, -100, 25, -1, -17], 'answer': (-63, 54)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-26, 97, -42, -56], 'answer': (97, -42)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [39, -54, 20, 43], 'answer': (-54, 20)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-93, 69, 31, 41, -39, -98, -40], 'answer': (69, 31)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-7, -45, -43, -58, -2], 'answer': (-45, -43)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [37, 65, 0, 11, -71], 'answer': (65, 0)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-64, 83, 5, -10], 'answer': (83, 5)}
+{'name': 'Second_and_third', 'info': 'Return the 2nd and 3rd items from a list in the form (second, third)', 'payload': [-98, -48, 0, 68, -67, -49, 61, -67], 'answer': (-48, 0)}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-48, -65, 31, 51, 68], 'answer': 133}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [64, 95, 3, 40, 72], 'answer': 92}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-47, 8, 71, 68, -88, 37], 'answer': 159}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-49, -33, 54, 47, -90, -1, -11, 52], 'answer': 144}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-91, 68, -22, 33, 35, -64], 'answer': 159}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-98, 45, 89, 91, 70, -2], 'answer': 189}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-25, 3, 47, 91, -28, -90], 'answer': 181}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-10, 36, -58, -37, -88, 11, 8, 26], 'answer': 124}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [57, -64, 37, -93], 'answer': 150}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [41, -93, 87, -70, 38, -3, 78, -54], 'answer': 180}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [65, 60, -49, 1, -72], 'answer': 137}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [76, -73, 58, -89, -50, -13, -37], 'answer': 165}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [85, 2, 95, 5, -40], 'answer': 135}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [39, 86, 10, 48], 'answer': 76}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [42, -99, 91, 11], 'answer': 190}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [54, 55, -41, -8, -64], 'answer': 119}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [2, -72, -96, -64, 79, 36, 78], 'answer': 175}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [32, -4, -79, 70, -83, -11], 'answer': 153}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [93, -51, 39, -51, -72, -70, -8, 24], 'answer': 165}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-53, -21, -38, 61, 39, -78, -45, -29], 'answer': 139}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [24, -49, 59, -54, -40, -10, 68, 71], 'answer': 125}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-79, 87, 3, 14], 'answer': 166}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [87, -52, 28, -12, -93], 'answer': 180}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [62, 57, -57, 82, 23, 66], 'answer': 139}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [39, 83, 99, -68, -54, 24], 'answer': 167}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [85, -81, 76, -75, -18, -24, 86], 'answer': 167}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-2, -49, -69, -73, -80], 'answer': 78}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-20, 33, -100, -17, -46, -6], 'answer': 133}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [100, 88, 48, -38, 11, 75, -5], 'answer': 138}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-41, 18, -21, -48, 95, -6, -97], 'answer': 192}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-45, 7, -46, -90], 'answer': 97}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-46, 78, -66, -90, -32], 'answer': 168}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [11, 4, 17, 38, 31, 89, -49], 'answer': 138}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-20, 77, 34, 21, -89, 84, -36], 'answer': 173}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [81, 14, -100, -100, 26, 41, 85, 69], 'answer': 185}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [69, 61, 33, 65], 'answer': 36}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-68, 43, 44, -38, -45, 11, -22], 'answer': 112}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-22, -56, -27, 73, 96, 26], 'answer': 152}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-34, -58, -19, -37, -94, 35], 'answer': 129}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [96, -37, 89, 57, 16, 3, 91, -16], 'answer': 133}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-45, -43, -29, 89, 32, 87], 'answer': 134}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-42, 60, 37, 89, -42, -17, 14], 'answer': 131}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-67, -38, 29, 66, -78, 12, -68, -86], 'answer': 152}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-31, -25, -46, -33, 98, -77, -66, -30], 'answer': 175}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [42, 59, -94, 31], 'answer': 153}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [12, -30, 71, 59, 48], 'answer': 101}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [-81, 63, 35, -43, 12, -50, -94], 'answer': 157}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [28, 31, 66, -61, -100, 48], 'answer': 166}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [32, 46, -52, 30, 82], 'answer': 134}
+{'name': 'List_range', 'info': 'Return the range of a list using max minus min', 'payload': [44, -32, 38, -78, 28, -40], 'answer': 122}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-25, -2, -39, 19, 78, -13], 'answer': 76}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [19, 83, -35, 51, -3], 'answer': 134}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [36, 60, 17, -99, -99, -87, 87], 'answer': -27}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [95, -62, -63, -88, -77, -89, -6, 48], 'answer': -68}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [81, -12, 31, -26, -30, -8, -67], 'answer': -20}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [93, -8, -69, 33, -77, -33, 34, 44], 'answer': 26}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [30, -1, -90, -95, -11], 'answer': -96}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [45, 19, 13, -94, 80, -45], 'answer': 99}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [100, 66, -48, 50, 21, -52, 85], 'answer': 14}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-13, -32, 65, -41, -15, -50, -84], 'answer': -82}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-23, -44, 49, 59], 'answer': 5}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-79, 38, 66, 78, -26], 'answer': 116}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-8, 84, 1, -64, -43, -38], 'answer': 41}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-36, 3, 91, -35, 97], 'answer': -32}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-59, 55, -15, 36, 34, 82, 27, 84], 'answer': 82}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [81, 59, 68, -83], 'answer': 127}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [34, -36, -50, 40, -4, 71], 'answer': -40}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [74, 66, -68, 30], 'answer': -2}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [88, -36, -63, 40, -22, -15, 29], 'answer': -51}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [48, 82, 9, -61, -15, 45, -23], 'answer': 127}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [31, -31, 33, -50, 69, 37, 74, 11], 'answer': 43}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [64, 63, 98, -34], 'answer': 161}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-91, 60, 85, -53, -3], 'answer': 7}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-99, -40, 39, -47, -26], 'answer': -87}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [100, 48, 59, -11, 64, -61, 63], 'answer': -13}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-77, 35, -41, 27, 46, -75, -20, 80], 'answer': 15}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-11, 62, -23, 57, 38, 44, 9, -28], 'answer': 71}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-15, -3, -67, 45], 'answer': -70}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-74, 9, 18, 35, 68, -72, 45], 'answer': -63}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-54, -28, -5, -37], 'answer': -33}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-11, 99, -1, 8, 87, -39, -23], 'answer': 60}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-87, -44, -60, -12, 53, 34, 87], 'answer': -10}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-62, -39, -62, -11], 'answer': -101}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-1, -8, -17, -73, 37, 4, 40], 'answer': -4}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-90, -52, -90, 96, -84, -65, 8, -27], 'answer': -44}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-18, -38, -63, 17, 81, -82], 'answer': 43}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [37, 99, -5, 7, -41, 38], 'answer': 58}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [23, 91, 89, -73, 25, 24, 63, -55], 'answer': 154}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-20, 43, -13, -97, 17, 73, -96], 'answer': 116}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [94, 0, -37, -69, -91], 'answer': -69}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [36, 98, -55, 1, -49, 51, 71], 'answer': 149}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [21, -67, 23, 39], 'answer': -44}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [86, -53, 49, -3, 91, 55, 75, -83], 'answer': 22}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [95, -9, 52, -62, 18], 'answer': -71}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-14, 94, -77, 69, 51, -90], 'answer': 145}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [26, 44, -86, 73, -19], 'answer': 117}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-85, 22, -58, -44, -96, -89, -28, 31], 'answer': -6}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-95, -11, 65, -75, -82, -58, -55, -62], 'answer': -66}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [54, 51, -21, 82, -27, -55, -19], 'answer': -4}
+{'name': 'Second_and_second_last_sum', 'info': 'Return the sum of the 2nd and 2nd last items in a list', 'payload': [-57, -92, -37, 72, 92, 70], 'answer': 0}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-57, 21, 4, 54, -40], 'answer': [-57, 21, 4, 54]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-29, 25, 5, 46], 'answer': [-29, 25, 5]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [66, -32, 83, 3, -74, 83, 71, -41], 'answer': [66, -32, 83, 3, -74, 83, 71]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [49, -82, -21, 50], 'answer': [49, -82, -21]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [20, -7, 39, -42], 'answer': [20, -7, 39]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-14, -12, 98, -54], 'answer': [-14, -12, 98]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-34, 64, -68, -97, 93, -60, 0], 'answer': [-34, 64, -68, -97, 93, -60]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [17, -49, 59, -84, 11, -89, -99, -97], 'answer': [17, -49, 59, -84, 11, -89, -99]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [38, 49, 74, 83, 30, 40], 'answer': [38, 49, 74, 83, 30]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-92, 52, -97, -49, -80, 61, -51, 88], 'answer': [-92, 52, -97, -49, -80, 61, -51]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-17, -38, -12, -33, 74], 'answer': [-17, -38, -12, -33]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [11, -82, 61, -48, -64, -49, -39], 'answer': [11, -82, 61, -48, -64, -49]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [80, -64, 39, -44, 86, 76], 'answer': [80, -64, 39, -44, 86]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [70, 37, -32, -91], 'answer': [70, 37, -32]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [43, 60, -27, 49, -29, 50], 'answer': [43, 60, -27, 49, -29]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-60, 93, -24, -7, -88, -92], 'answer': [-60, 93, -24, -7, -88]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-76, 67, -72, -75, -14, -6], 'answer': [-76, 67, -72, -75, -14]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [71, -39, -35, -98, 68, -2, 99], 'answer': [71, -39, -35, -98, 68, -2]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [26, 87, -88, -13, -63, -62], 'answer': [26, 87, -88, -13, -63]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-81, 64, 7, 52, -42, -39], 'answer': [-81, 64, 7, 52, -42]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [52, -28, -56, 2, 81, 99, -42], 'answer': [52, -28, -56, 2, 81, 99]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-72, -50, -91, 16, 3, 6, -22], 'answer': [-72, -50, -91, 16, 3, 6]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-39, 43, -38, 55, -27, 64, -97], 'answer': [-39, 43, -38, 55, -27, 64]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [17, 24, 90, -51, -100, -5], 'answer': [17, 24, 90, -51, -100]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [28, 55, 70, -66], 'answer': [28, 55, 70]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-78, -86, -7, 75, 91], 'answer': [-78, -86, -7, 75]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [86, 17, -11, 91, 99, 56], 'answer': [86, 17, -11, 91, 99]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [93, 76, -49, -46, -74, -92, -79], 'answer': [93, 76, -49, -46, -74, -92]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-83, -50, -12, 16], 'answer': [-83, -50, -12]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [6, 28, 75, 37, 47], 'answer': [6, 28, 75, 37]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-63, -15, 99, 42, -81, -3, 20, 63], 'answer': [-63, -15, 99, 42, -81, -3, 20]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [10, -100, 6, -2, -10], 'answer': [10, -100, 6, -2]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-25, -26, -2, 32, -89, 49, -10], 'answer': [-25, -26, -2, 32, -89, 49]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [84, 86, 54, -77], 'answer': [84, 86, 54]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-24, -77, 66, -42, 61, -85, -99, -51], 'answer': [-24, -77, 66, -42, 61, -85, -99]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-67, -18, -30, 19, 10], 'answer': [-67, -18, -30, 19]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-2, -47, -84, 85], 'answer': [-2, -47, -84]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [96, -46, 94, 97, -43, -91], 'answer': [96, -46, 94, 97, -43]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-38, -37, 42, -42, -95, -52, -53, -88], 'answer': [-38, -37, 42, -42, -95, -52, -53]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-77, 52, -74, 0, -9, -38], 'answer': [-77, 52, -74, 0, -9]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [21, -76, -97, -86, -9, -68], 'answer': [21, -76, -97, -86, -9]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [0, 49, 92, -42], 'answer': [0, 49, 92]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [15, -87, -28, 34, 38, -72, -62, -12], 'answer': [15, -87, -28, 34, 38, -72, -62]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-51, -59, 78, 45, -60], 'answer': [-51, -59, 78, 45]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [6, -15, 65, -54, -30, -50, 5, 60], 'answer': [6, -15, 65, -54, -30, -50, 5]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-12, -90, -60, 38, -5], 'answer': [-12, -90, -60, 38]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [52, 83, -90, 93], 'answer': [52, 83, -90]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [-11, 83, -100, 6, -12, 95], 'answer': [-11, 83, -100, 6, -12]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [54, -44, -31, -45], 'answer': [54, -44, -31]}
+{'name': 'Without_last', 'info': 'Return the list with the last item removed', 'payload': [50, -41, -27, -53], 'answer': [50, -41, -27]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-57, -85, -20, -91], 'answer': [-57, -85, -20, -91, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [54, -14, -48], 'answer': [54, -14, -48, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [54, 89], 'answer': [54, 89, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [44, 36, 23, -10, 31], 'answer': [44, 36, 23, -10, 31, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-7, 45, -27, -67, 99, -83], 'answer': [-7, 45, -27, -67, 99, -83, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [65, 70], 'answer': [65, 70, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [16, 100, 3, 43, 66, -89], 'answer': [16, 100, 3, 43, 66, -89, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [69, -16, 9, -84, -85], 'answer': [69, -16, 9, -84, -85, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [88, 77], 'answer': [88, 77, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-93, 97, 74, 100], 'answer': [-93, 97, 74, 100, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [6, -47, 43, -46, 37, 1], 'answer': [6, -47, 43, -46, 37, 1, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [64, 4, -61], 'answer': [64, 4, -61, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-35, 11, -84, -47, -6], 'answer': [-35, 11, -84, -47, -6, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [0, -59, -4, 6, -96], 'answer': [0, -59, -4, 6, -96, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [14, -100, -50, 7, 89], 'answer': [14, -100, -50, 7, 89, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [96, 54, -72, 48], 'answer': [96, 54, -72, 48, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [55, -57, 60], 'answer': [55, -57, 60, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-69, -82, -16], 'answer': [-69, -82, -16, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [12, -83, 97, -62, 74], 'answer': [12, -83, 97, -62, 74, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [26, 69], 'answer': [26, 69, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-42, -74], 'answer': [-42, -74, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [85, 78, 74, 87, 18, 34], 'answer': [85, 78, 74, 87, 18, 34, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-31, 40, 48, 1, -81], 'answer': [-31, 40, 48, 1, -81, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [83, 58, 66, 81, 67, -31], 'answer': [83, 58, 66, 81, 67, -31, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [36, 24], 'answer': [36, 24, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-16, -53, -17, -24, -71], 'answer': [-16, -53, -17, -24, -71, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-5, 15, -43, -46, -73], 'answer': [-5, 15, -43, -46, -73, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-94, -70, -27, -39, 98], 'answer': [-94, -70, -27, -39, 98, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-19, -17], 'answer': [-19, -17, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-81, -99, 93, 35, 63, 56], 'answer': [-81, -99, 93, 35, 63, 56, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-85, 94, 46, 43, 72], 'answer': [-85, 94, 46, 43, 72, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [28, 20, -63, 66, 35], 'answer': [28, 20, -63, 66, 35, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-88, -64, 68, 19, 58], 'answer': [-88, -64, 68, 19, 58, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [17, -99, 91], 'answer': [17, -99, 91, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [75, 33, -54, 7, -23], 'answer': [75, 33, -54, 7, -23, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-60, 10, 28, 64, -35], 'answer': [-60, 10, 28, 64, -35, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-19, 94, 24, -61, -76], 'answer': [-19, 94, 24, -61, -76, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-23, -71, 22, -38], 'answer': [-23, -71, 22, -38, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [34, 1], 'answer': [34, 1, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [47, 1, -32], 'answer': [47, 1, -32, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [5, 98, 45, -36], 'answer': [5, 98, 45, -36, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-73, -9, -83, -95], 'answer': [-73, -9, -83, -95, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-86, -2, -28, -30], 'answer': [-86, -2, -28, -30, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [3, -39, -45, 48, 72, 49], 'answer': [3, -39, -45, 48, 72, 49, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-15, -65, -84, 91], 'answer': [-15, -65, -84, 91, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [74, -16, -15, 96, 85], 'answer': [74, -16, -15, 96, 85, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [65, -60], 'answer': [65, -60, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [29, 43, -9, 70, -7, 48], 'answer': [29, 43, -9, 70, -7, 48, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [19, 95, -35, -34, -93, -54], 'answer': [19, 95, -35, -34, -93, -54, 1, 2, 3]}
+{'name': 'Append_123', 'info': 'Return the list with 1, 2, 3 appended to the end', 'payload': [-77, 12, 3, 64, -56], 'answer': [-77, 12, 3, 64, -56, 1, 2, 3]}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'eukhh', 'answer': 'e'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'crefhqc', 'answer': 'c'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'gaudqrrl', 'answer': 'g'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'hrsxqa', 'answer': 'h'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'kbxwxr', 'answer': 'k'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'afhidnji', 'answer': 'a'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'lck', 'answer': 'l'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'crswc', 'answer': 'c'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'flbflub', 'answer': 'f'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'vbjoyae', 'answer': 'v'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'snonn', 'answer': 's'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'kpgjoq', 'answer': 'k'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'metgyvoj', 'answer': 'm'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'eobvid', 'answer': 'e'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'ifzqmqdb', 'answer': 'i'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'fjpatwsq', 'answer': 'f'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'cselwuj', 'answer': 'c'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'sguvvjis', 'answer': 's'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'mvmepvw', 'answer': 'm'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'avskvil', 'answer': 'a'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'mno', 'answer': 'm'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'kmm', 'answer': 'k'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'juu', 'answer': 'j'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'bugp', 'answer': 'b'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'tcc', 'answer': 't'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'scwo', 'answer': 's'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'ocekkhn', 'answer': 'o'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'zbm', 'answer': 'z'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'ezyxl', 'answer': 'e'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'oabiw', 'answer': 'o'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'nrt', 'answer': 'n'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'vnsxaanu', 'answer': 'v'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'meyat', 'answer': 'm'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'zuhcacrb', 'answer': 'z'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'cflpbz', 'answer': 'c'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'exdl', 'answer': 'e'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'mbxlch', 'answer': 'm'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'ekapos', 'answer': 'e'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'mykam', 'answer': 'm'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'legpmp', 'answer': 'l'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'dpwzxfv', 'answer': 'd'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'tbiakxg', 'answer': 't'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'cwb', 'answer': 'c'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'txmp', 'answer': 't'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'hgerd', 'answer': 'h'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'ccx', 'answer': 'c'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'vnb', 'answer': 'v'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'rzwvr', 'answer': 'r'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'fmfyk', 'answer': 'f'}
+{'name': 'First_char', 'info': 'Return the first character of a string', 'payload': 'huziuca', 'answer': 'h'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'kvloin', 'answer': 'kvloi'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'klmegc', 'answer': 'klmeg'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'itlcifoy', 'answer': 'itlcifo'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'bhvy', 'answer': 'bhv'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'lkrxyf', 'answer': 'lkrxy'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'msigdjmg', 'answer': 'msigdjm'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'bvftxz', 'answer': 'bvftx'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'modc', 'answer': 'mod'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'cqsk', 'answer': 'cqs'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'fxtegga', 'answer': 'fxtegg'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'emtgkufb', 'answer': 'emtgkuf'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'dxbnfcox', 'answer': 'dxbnfco'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'hepq', 'answer': 'hep'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'fde', 'answer': 'fd'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'hwzndp', 'answer': 'hwznd'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'jgd', 'answer': 'jg'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'vytgpwug', 'answer': 'vytgpwu'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'kmjjwmhp', 'answer': 'kmjjwmh'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'kpvqf', 'answer': 'kpvq'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'dcce', 'answer': 'dcc'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'ltoifpc', 'answer': 'ltoifp'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'jjlc', 'answer': 'jjl'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'krendm', 'answer': 'krend'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'yfxy', 'answer': 'yfx'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'wdvqxtnc', 'answer': 'wdvqxtn'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'yzzaafb', 'answer': 'yzzaaf'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'pqwme', 'answer': 'pqwm'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'zawryna', 'answer': 'zawryn'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'bah', 'answer': 'ba'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'xhx', 'answer': 'xh'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'rvyj', 'answer': 'rvy'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'injp', 'answer': 'inj'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'vkmwv', 'answer': 'vkmw'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'chhfw', 'answer': 'chhf'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'rqtkrcqz', 'answer': 'rqtkrcq'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'gnx', 'answer': 'gn'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'frsnniib', 'answer': 'frsnnii'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'qvpdl', 'answer': 'qvpd'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'disvlr', 'answer': 'disvl'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'itxs', 'answer': 'itx'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'qnq', 'answer': 'qn'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'bht', 'answer': 'bh'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'sphniup', 'answer': 'sphniu'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'sgru', 'answer': 'sgr'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'xpxxiydq', 'answer': 'xpxxiyd'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'unnfz', 'answer': 'unnf'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'akrih', 'answer': 'akri'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'wajm', 'answer': 'waj'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'wehuqwsy', 'answer': 'wehuqws'}
+{'name': 'Without_last_char', 'info': 'Return the string with the last character removed', 'payload': 'szvz', 'answer': 'szv'}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 340.6, 'answer': 171.44}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 345.3, 'answer': 174.06}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 147.1, 'answer': 63.94}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 286.0, 'answer': 141.11}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 255.6, 'answer': 124.22}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 179.3, 'answer': 81.83}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': -18.8, 'answer': -28.22}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 190.4, 'answer': 88.0}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 211.0, 'answer': 99.44}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 274.4, 'answer': 134.67}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 277.4, 'answer': 136.33}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': -13.3, 'answer': -25.17}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 280.4, 'answer': 138.0}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 172.7, 'answer': 78.17}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 62.0, 'answer': 16.67}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 302.7, 'answer': 150.39}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 167.0, 'answer': 75.0}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 342.2, 'answer': 172.33}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 39.0, 'answer': 3.89}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 353.1, 'answer': 178.39}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 129.8, 'answer': 54.33}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 250.2, 'answer': 121.22}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 304.5, 'answer': 151.39}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 20.0, 'answer': -6.67}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 300.8, 'answer': 149.33}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 105.6, 'answer': 40.89}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 133.5, 'answer': 56.39}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 136.0, 'answer': 57.78}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 295.6, 'answer': 146.44}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': -0.4, 'answer': -18.0}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 224.3, 'answer': 106.83}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 112.2, 'answer': 44.56}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 36.1, 'answer': 2.28}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 247.8, 'answer': 119.89}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 30.9, 'answer': -0.61}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 384.7, 'answer': 195.94}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 248.5, 'answer': 120.28}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 143.7, 'answer': 62.06}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 273.1, 'answer': 133.94}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 346.9, 'answer': 174.94}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 168.4, 'answer': 75.78}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 356.2, 'answer': 180.11}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': -20.0, 'answer': -28.89}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 314.9, 'answer': 157.17}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 46.5, 'answer': 8.06}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 110.3, 'answer': 43.5}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 48.5, 'answer': 9.17}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 326.6, 'answer': 163.67}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 134.1, 'answer': 56.72}
+{'name': 'Float_F_to_C', 'info': 'Convert a float temperature in F to C to 2 decimal places', 'payload': 279.7, 'answer': 137.61}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-5F', '-5C', '98F', '61C'], 'answer': ['-21C', '-5C', '37C', '61C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['66C', '-14F', '113F'], 'answer': ['66C', '-26C', '45C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-3C', '-2F', '8C'], 'answer': ['-3C', '-19C', '8C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['56F', '31C', '30C', '17F'], 'answer': ['13C', '31C', '30C', '-8C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['6C', '98F', '73C', '6C', '115C', '99F'], 'answer': ['6C', '37C', '73C', '6C', '115C', '37C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-18C', '91C', '-20C', '98F', '70F', '9F'], 'answer': ['-18C', '91C', '-20C', '37C', '21C', '-13C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-17F', '59C', '-18C'], 'answer': ['-27C', '59C', '-18C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['109F', '-5F', '90C', '-6F', '108C'], 'answer': ['43C', '-21C', '90C', '-21C', '108C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['95C', '-4C', '27F', '-16C', '41C'], 'answer': ['95C', '-4C', '-3C', '-16C', '41C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-1F', '15F', '60C', '1F'], 'answer': ['-18C', '-9C', '60C', '-17C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['29C', '100F', '2C', '107C', '94F', '29F'], 'answer': ['29C', '38C', '2C', '107C', '34C', '-2C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['95C', '77C', '-15F'], 'answer': ['95C', '77C', '-26C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['66C', '1F', '45C', '113C', '7F', '-16C'], 'answer': ['66C', '-17C', '45C', '113C', '-14C', '-16C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-11C', '83F', '76F', '118F', '100C'], 'answer': ['-11C', '28C', '24C', '48C', '100C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['9C', '34F', '42C', '38F', '116C'], 'answer': ['9C', '1C', '42C', '3C', '116C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['119F', '51C', '25C'], 'answer': ['48C', '51C', '25C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['100F', '105C', '70F'], 'answer': ['38C', '105C', '21C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['45F', '-5F', '120C', '6F', '26C', '106F'], 'answer': ['7C', '-21C', '120C', '-14C', '26C', '41C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['38F', '38F', '-7F', '55C', '23F'], 'answer': ['3C', '3C', '-22C', '55C', '-5C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-1F', '30C', '120C', '3F', '-14F'], 'answer': ['-18C', '30C', '120C', '-16C', '-26C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['46F', '61F', '65F', '18F'], 'answer': ['8C', '16C', '18C', '-8C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['98F', '-8C', '79F', '89F', '105F', '-8C'], 'answer': ['37C', '-8C', '26C', '32C', '41C', '-8C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['31C', '80C', '104F'], 'answer': ['31C', '80C', '40C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['100F', '9C', '13F', '73F', '51F', '37C'], 'answer': ['38C', '9C', '-11C', '23C', '11C', '37C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['83C', '27C', '22F', '85F', '-5C', '39C'], 'answer': ['83C', '27C', '-6C', '29C', '-5C', '39C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['25C', '63F', '23C', '108F'], 'answer': ['25C', '17C', '23C', '42C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['13C', '-1F', '99C', '67F', '119C'], 'answer': ['13C', '-18C', '99C', '19C', '119C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['40F', '34C', '-15C', '12F', '24F', '20F'], 'answer': ['4C', '34C', '-15C', '-11C', '-4C', '-7C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['29F', '-6C', '44F'], 'answer': ['-2C', '-6C', '7C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['75C', '63F', '76C', '112F', '61C', '107C'], 'answer': ['75C', '17C', '76C', '44C', '61C', '107C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['73F', '112C', '26C', '-6F', '52C'], 'answer': ['23C', '112C', '26C', '-21C', '52C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['112C', '62C', '100C', '64C'], 'answer': ['112C', '62C', '100C', '64C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['0C', '3F', '5F', '22C', '114F'], 'answer': ['0C', '-16C', '-15C', '22C', '46C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-16F', '91C', '48C', '30F'], 'answer': ['-27C', '91C', '48C', '-1C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['54C', '93C', '118F', '101C'], 'answer': ['54C', '93C', '48C', '101C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['17F', '80C', '48F', '91C'], 'answer': ['-8C', '80C', '9C', '91C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['49C', '119F', '41C'], 'answer': ['49C', '48C', '41C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-1F', '71F', '111C', '101C', '120C', '0C'], 'answer': ['-18C', '22C', '111C', '101C', '120C', '0C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-20F', '-8F', '75F', '26F', '69C'], 'answer': ['-29C', '-22C', '24C', '-3C', '69C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['83C', '36C', '-1F'], 'answer': ['83C', '36C', '-18C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['60F', '105C', '84F'], 'answer': ['16C', '105C', '29C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['4C', '67F', '-16C'], 'answer': ['4C', '19C', '-16C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['108C', '56C', '-18C', '101F', '114C'], 'answer': ['108C', '56C', '-18C', '38C', '114C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['6F', '37F', '16F', '34F', '107C', '29C'], 'answer': ['-14C', '3C', '-9C', '1C', '107C', '29C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['63C', '6C', '-11F', '61F', '47C', '103C'], 'answer': ['63C', '6C', '-24C', '16C', '47C', '103C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['99C', '87C', '22F', '111C', '76C'], 'answer': ['99C', '87C', '-6C', '111C', '76C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['9C', '-19F', '79C', '10C', '31F', '13C'], 'answer': ['9C', '-28C', '79C', '10C', '-1C', '13C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['47C', '92C', '5F', '0F'], 'answer': ['47C', '92C', '-15C', '-18C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['-7F', '27C', '81C'], 'answer': ['-22C', '27C', '81C']}
+{'name': 'Temps_to_C', 'info': 'Convert a list of temperatures like 45C or 55F to their equivalent values in C', 'payload': ['53F', '53C', '-2C', '119C'], 'answer': ['12C', '53C', '-2C', '119C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['19C', '-5C', '37C'], 'C'), 'answer': ['19C', '-5C', '37C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-11F', '60C', '-19C'], 'C'), 'answer': ['-24C', '60C', '-19C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['50C', '79C', '50C', '62F'], 'C'), 'answer': ['50C', '79C', '50C', '17C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-1C', '60C', '67F'], 'C'), 'answer': ['-1C', '60C', '19C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['24F', '45C', '42C', '3F'], 'C'), 'answer': ['-4C', '45C', '42C', '-16C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['83C', '29F', '-16F', '45C'], 'F'), 'answer': ['181F', '29F', '-16F', '113F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-7C', '-12C', '86F', '-20C', '85C', '112F'], 'F'), 'answer': ['19F', '10F', '86F', '-4F', '185F', '112F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['103F', '18F', '64F', '52F'], 'F'), 'answer': ['103F', '18F', '64F', '52F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['85F', '21C', '59C', '19F', '49F', '-2F'], 'C'), 'answer': ['29C', '21C', '59C', '-7C', '9C', '-19C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['61C', '42C', '26F', '2C', '92F', '118C'], 'C'), 'answer': ['61C', '42C', '-3C', '2C', '33C', '118C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-17F', '38C', '70C'], 'C'), 'answer': ['-27C', '38C', '70C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['69C', '116F', '90C'], 'C'), 'answer': ['69C', '47C', '90C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['102F', '-11F', '71C'], 'F'), 'answer': ['102F', '-11F', '160F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['82F', '14C', '0C', '64F', '53F'], 'F'), 'answer': ['82F', '57F', '32F', '64F', '53F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['112C', '98C', '-8F'], 'C'), 'answer': ['112C', '98C', '-22C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['13C', '54F', '19F', '24C', '97F'], 'F'), 'answer': ['55F', '54F', '19F', '75F', '97F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['113F', '113C', '43C', '103C', '12C'], 'C'), 'answer': ['45C', '113C', '43C', '103C', '12C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-13C', '89C', '95C', '89F'], 'F'), 'answer': ['9F', '192F', '203F', '89F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['118F', '102F', '-20F', '-6F'], 'C'), 'answer': ['48C', '39C', '-29C', '-21C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['114F', '84C', '105F', '12C', '-13C', '71C'], 'C'), 'answer': ['46C', '84C', '41C', '12C', '-13C', '71C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['4F', '-10C', '20F'], 'F'), 'answer': ['4F', '14F', '20F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['26C', '94C', '60C', '2F', '-8C'], 'F'), 'answer': ['79F', '201F', '140F', '2F', '18F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['65C', '102C', '111C', '99F'], 'C'), 'answer': ['65C', '102C', '111C', '37C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['41C', '87C', '117F', '18C'], 'C'), 'answer': ['41C', '87C', '47C', '18C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['46C', '8F', '23F', '4C', '78F', '42F'], 'C'), 'answer': ['46C', '-13C', '-5C', '4C', '26C', '6C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['119F', '75F', '115F'], 'C'), 'answer': ['48C', '24C', '46C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['89C', '-11C', '64C'], 'F'), 'answer': ['192F', '12F', '147F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['4F', '117F', '41F', '98F', '81F'], 'F'), 'answer': ['4F', '117F', '41F', '98F', '81F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-20C', '44F', '108C', '24C', '33C', '78F'], 'C'), 'answer': ['-20C', '7C', '108C', '24C', '33C', '26C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['88F', '-1C', '-15F', '73F'], 'C'), 'answer': ['31C', '-1C', '-26C', '23C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['30F', '116C', '72C', '120F', '91F'], 'F'), 'answer': ['30F', '241F', '162F', '120F', '91F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-13F', '44C', '26F', '96C'], 'F'), 'answer': ['-13F', '111F', '26F', '205F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['110F', '64C', '43C', '44F', '91F'], 'C'), 'answer': ['43C', '64C', '43C', '7C', '33C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-13F', '111F', '70C', '54C', '16F', '74F'], 'C'), 'answer': ['-25C', '44C', '70C', '54C', '-9C', '23C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['111C', '-10C', '98F', '-18F'], 'C'), 'answer': ['111C', '-10C', '37C', '-28C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-2C', '118F', '58C'], 'F'), 'answer': ['28F', '118F', '136F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['20C', '64F', '74C', '53F', '41F'], 'F'), 'answer': ['68F', '64F', '165F', '53F', '41F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['77C', '18F', '68C'], 'C'), 'answer': ['77C', '-8C', '68C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['22F', '4C', '56F', '55F'], 'F'), 'answer': ['22F', '39F', '56F', '55F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['21C', '109F', '92F', '37F'], 'F'), 'answer': ['70F', '109F', '92F', '37F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['1F', '-7F', '-5C'], 'F'), 'answer': ['1F', '-7F', '23F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['24C', '15C', '110C', '-13F', '97F', '22F'], 'F'), 'answer': ['75F', '59F', '230F', '-13F', '97F', '22F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-15C', '78F', '27C'], 'C'), 'answer': ['-15C', '26C', '27C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['74C', '2F', '18F', '26F', '13C'], 'C'), 'answer': ['74C', '-17C', '-8C', '-3C', '13C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['-12C', '-19C', '77F', '-8F', '0F'], 'F'), 'answer': ['10F', '-2F', '77F', '-8F', '0F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['35F', '53C', '65F', '118F', '23C'], 'F'), 'answer': ['35F', '127F', '65F', '118F', '73F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['98C', '33C', '80C'], 'F'), 'answer': ['208F', '91F', '176F']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['48F', '39F', '66C'], 'C'), 'answer': ['9C', '4C', '66C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['0F', '88F', '39F', '5F', '-6F'], 'C'), 'answer': ['-18C', '31C', '4C', '-15C', '-21C']}
+{'name': 'Temps_to_unit', 'info': 'Convert a list of temperatures like 45C or 55F to C or F depending on the given unit', 'payload': (['25C', '-2F', '103C', '111C', '24F', '98F'], 'F'), 'answer': ['77F', '-2F', '217F', '232F', '24F', '98F']}

@@ -1,0 +1,700 @@
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 233, 'answer': 111.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 168, 'answer': 75.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 280, 'answer': 137.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -4, 'answer': -20.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 320, 'answer': 160.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 257, 'answer': 125.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 388, 'answer': 197.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 71, 'answer': 21.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -37, 'answer': -38.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 356, 'answer': 180.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 49, 'answer': 9.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 46, 'answer': 7.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 369, 'answer': 187.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -21, 'answer': -29.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -73, 'answer': -58.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 128, 'answer': 53.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 218, 'answer': 103.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 12, 'answer': -11.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 339, 'answer': 170.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -79, 'answer': -61.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 193, 'answer': 89.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 323, 'answer': 161.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 339, 'answer': 170.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 213, 'answer': 100.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 154, 'answer': 67.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -44, 'answer': -42.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 387, 'answer': 197.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 282, 'answer': 138.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 280, 'answer': 137.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -52, 'answer': -46.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 291, 'answer': 143.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 209, 'answer': 98.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 291, 'answer': 143.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 325, 'answer': 162.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 203, 'answer': 95.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 203, 'answer': 95.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 306, 'answer': 152.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -25, 'answer': -31.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 206, 'answer': 96.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 179, 'answer': 81.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 350, 'answer': 176.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -2, 'answer': -18.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 13, 'answer': -10.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 186, 'answer': 85.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 326, 'answer': 163.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 86, 'answer': 30.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 257, 'answer': 125.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -22, 'answer': -30.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 70, 'answer': 21.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 127, 'answer': 52.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 248, 'answer': 120.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 311, 'answer': 155.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 275, 'answer': 135.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 181, 'answer': 82.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 184, 'answer': 84.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 175, 'answer': 79.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 272, 'answer': 133.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 51, 'answer': 10.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -43, 'answer': -41.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 286, 'answer': 141.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 241, 'answer': 116.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 354, 'answer': 178.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 255, 'answer': 123.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 321, 'answer': 160.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 146, 'answer': 63.33}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 358, 'answer': 181.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 384, 'answer': 195.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -84, 'answer': -64.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 29, 'answer': -1.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 63, 'answer': 17.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 377, 'answer': 191.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -11, 'answer': -23.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 289, 'answer': 142.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 374, 'answer': 190.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 341, 'answer': 171.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -32, 'answer': -35.56}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 232, 'answer': 111.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 241, 'answer': 116.11}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 271, 'answer': 132.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 129, 'answer': 53.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 5, 'answer': -15.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 198, 'answer': 92.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -34, 'answer': -36.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 252, 'answer': 122.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 219, 'answer': 103.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 35, 'answer': 1.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 391, 'answer': 199.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 252, 'answer': 122.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -48, 'answer': -44.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -40, 'answer': -40.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': -93, 'answer': -69.44}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 399, 'answer': 203.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 278, 'answer': 136.67}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 136, 'answer': 57.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 10, 'answer': -12.22}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 5, 'answer': -15.0}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 39, 'answer': 3.89}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 199, 'answer': 92.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 0, 'answer': -17.78}
+{'name': 'F_to_C', 'info': 'Convert temperature value from Farenheit to Celcius to 2 decimal places', 'payload': 336, 'answer': 168.89}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2867, 'answer': 4613.98}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7283, 'answer': 11720.82}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9867, 'answer': 15879.36}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2295, 'answer': 3693.44}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1675, 'answer': 2695.64}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5187, 'answer': 8347.65}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 747, 'answer': 1202.18}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4488, 'answer': 7222.72}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 109, 'answer': 175.42}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3950, 'answer': 6356.89}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7521, 'answer': 12103.85}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1416, 'answer': 2278.83}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3644, 'answer': 5864.43}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4238, 'answer': 6820.38}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6701, 'answer': 10784.19}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1357, 'answer': 2183.87}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9021, 'answer': 14517.86}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 8239, 'answer': 13259.35}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3748, 'answer': 6031.81}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9635, 'answer': 15505.99}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7293, 'answer': 11736.92}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7997, 'answer': 12869.89}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 276, 'answer': 444.18}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7981, 'answer': 12844.14}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9466, 'answer': 15234.01}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2710, 'answer': 4361.31}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3428, 'answer': 5516.82}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7353, 'answer': 11833.48}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 372, 'answer': 598.67}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4277, 'answer': 6883.15}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3459, 'answer': 5566.71}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4725, 'answer': 7604.13}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6702, 'answer': 10785.8}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3714, 'answer': 5977.09}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5989, 'answer': 9638.34}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5042, 'answer': 8114.29}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 463, 'answer': 745.12}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4660, 'answer': 7499.52}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7428, 'answer': 11954.18}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2977, 'answer': 4791.01}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9628, 'answer': 15494.73}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9793, 'answer': 15760.27}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 771, 'answer': 1240.8}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1368, 'answer': 2201.58}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5636, 'answer': 9070.24}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9628, 'answer': 15494.73}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 587, 'answer': 944.68}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9443, 'answer': 15197.0}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5788, 'answer': 9314.86}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6650, 'answer': 10702.11}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1232, 'answer': 1982.71}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 384, 'answer': 617.99}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3437, 'answer': 5531.3}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 203, 'answer': 326.7}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1853, 'answer': 2982.11}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6917, 'answer': 11131.8}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7691, 'answer': 12377.43}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1525, 'answer': 2454.24}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1885, 'answer': 3033.61}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1338, 'answer': 2153.3}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1188, 'answer': 1911.9}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6637, 'answer': 10681.19}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 243, 'answer': 391.07}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6929, 'answer': 11151.12}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7774, 'answer': 12511.01}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 8970, 'answer': 14435.78}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9205, 'answer': 14813.97}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 459, 'answer': 738.69}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3510, 'answer': 5648.78}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4884, 'answer': 7860.02}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5233, 'answer': 8421.68}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3285, 'answer': 5286.68}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4052, 'answer': 6521.05}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 642, 'answer': 1033.2}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9469, 'answer': 15238.84}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2896, 'answer': 4660.65}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 8901, 'answer': 14324.74}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4320, 'answer': 6952.35}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 8116, 'answer': 13061.4}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6351, 'answer': 10220.92}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4776, 'answer': 7686.21}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2102, 'answer': 3382.83}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7865, 'answer': 12657.46}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 852, 'answer': 1371.16}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 7562, 'answer': 12169.83}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5149, 'answer': 8286.49}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5072, 'answer': 8162.57}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1969, 'answer': 3168.79}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 8169, 'answer': 13146.7}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 6448, 'answer': 10377.02}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3152, 'answer': 5072.64}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3, 'answer': 4.83}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3237, 'answer': 5209.43}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 5589, 'answer': 8994.6}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9949, 'answer': 16011.32}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 2996, 'answer': 4821.58}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 4226, 'answer': 6801.07}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 9957, 'answer': 16024.2}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 3507, 'answer': 5643.96}
+{'name': 'Miles_to_km', 'info': 'Convert the distance value from miles to km to 2 decimal places', 'payload': 1032, 'answer': 1660.84}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 54, 'answer': 24.14}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 28, 'answer': 12.52}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 85, 'answer': 38.0}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 54, 'answer': 24.14}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 8, 'answer': 3.58}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 74, 'answer': 33.08}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 56, 'answer': 25.03}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 26, 'answer': 11.62}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 68, 'answer': 30.4}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 28, 'answer': 12.52}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 3, 'answer': 1.34}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 42, 'answer': 18.78}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 97, 'answer': 43.36}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 53, 'answer': 23.69}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 72, 'answer': 32.19}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 43, 'answer': 19.22}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 29, 'answer': 12.96}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 36, 'answer': 16.09}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 78, 'answer': 34.87}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 44, 'answer': 19.67}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 96, 'answer': 42.92}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 85, 'answer': 38.0}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 57, 'answer': 25.48}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 70, 'answer': 31.29}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 35, 'answer': 15.65}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 25, 'answer': 11.18}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 63, 'answer': 28.16}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 31, 'answer': 13.86}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 100, 'answer': 44.7}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 90, 'answer': 40.23}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 56, 'answer': 25.03}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 28, 'answer': 12.52}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 43, 'answer': 19.22}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 59, 'answer': 26.38}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 41, 'answer': 18.33}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 92, 'answer': 41.13}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 61, 'answer': 27.27}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 39, 'answer': 17.43}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 21, 'answer': 9.39}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 80, 'answer': 35.76}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 85, 'answer': 38.0}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 28, 'answer': 12.52}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 62, 'answer': 27.72}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 94, 'answer': 42.02}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 67, 'answer': 29.95}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 38, 'answer': 16.99}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 10, 'answer': 4.47}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 77, 'answer': 34.42}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 64, 'answer': 28.61}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 100, 'answer': 44.7}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 88, 'answer': 39.34}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 34, 'answer': 15.2}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 95, 'answer': 42.47}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 54, 'answer': 24.14}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 82, 'answer': 36.66}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 38, 'answer': 16.99}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 74, 'answer': 33.08}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 91, 'answer': 40.68}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 68, 'answer': 30.4}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 8, 'answer': 3.58}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 21, 'answer': 9.39}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 93, 'answer': 41.57}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 90, 'answer': 40.23}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 29, 'answer': 12.96}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 89, 'answer': 39.79}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 57, 'answer': 25.48}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 54, 'answer': 24.14}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 28, 'answer': 12.52}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 34, 'answer': 15.2}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 9, 'answer': 4.02}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 46, 'answer': 20.56}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 70, 'answer': 31.29}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 68, 'answer': 30.4}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 87, 'answer': 38.89}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 83, 'answer': 37.1}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 91, 'answer': 40.68}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 58, 'answer': 25.93}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 64, 'answer': 28.61}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 1, 'answer': 0.45}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 81, 'answer': 36.21}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 54, 'answer': 24.14}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 45, 'answer': 20.12}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 18, 'answer': 8.05}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 13, 'answer': 5.81}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 25, 'answer': 11.18}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 82, 'answer': 36.66}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 98, 'answer': 43.81}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 14, 'answer': 6.26}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 99, 'answer': 44.26}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 44, 'answer': 19.67}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 91, 'answer': 40.68}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 76, 'answer': 33.98}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 25, 'answer': 11.18}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 73, 'answer': 32.63}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 87, 'answer': 38.89}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 54, 'answer': 24.14}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 3, 'answer': 1.34}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 69, 'answer': 30.85}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 46, 'answer': 20.56}
+{'name': 'mph_to_m_s', 'info': 'Convert speed value from miles per hour to meters per second to 2 decimal places', 'payload': 69, 'answer': 30.85}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:20:35', 'answer': 80435}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '12:15:58', 'answer': 44158}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:59:32', 'answer': 39572}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '19:53:22', 'answer': 71602}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:21:35', 'answer': 80495}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '11:46:23', 'answer': 42383}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:25:26', 'answer': 51926}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '15:54:46', 'answer': 57286}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:24:23', 'answer': 77063}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '13:51:47', 'answer': 49907}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:21:52', 'answer': 73312}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:40:22', 'answer': 52822}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:57:25', 'answer': 79045}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:27:30', 'answer': 62850}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:39:57', 'answer': 67197}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:31:59', 'answer': 77519}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:41:42', 'answer': 78102}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:51:52', 'answer': 67912}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:10:19', 'answer': 51019}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:53:29', 'answer': 86009}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:55:25', 'answer': 82525}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '19:50:10', 'answer': 71410}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:26:14', 'answer': 77174}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:12:58', 'answer': 83578}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:54:47', 'answer': 82487}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:16:43', 'answer': 65803}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:28:31', 'answer': 37711}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '13:50:34', 'answer': 49834}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:39:28', 'answer': 74368}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:26:15', 'answer': 80775}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:50:21', 'answer': 60621}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:53:55', 'answer': 75235}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:11:26', 'answer': 79886}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:59:41', 'answer': 64781}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:58:54', 'answer': 64734}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:55:32', 'answer': 86132}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:21:34', 'answer': 58894}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:57:57', 'answer': 75477}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:49:43', 'answer': 64183}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '15:38:30', 'answer': 56310}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '13:25:53', 'answer': 48353}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '12:50:11', 'answer': 46211}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:37:20', 'answer': 59840}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:49:15', 'answer': 85755}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '12:57:52', 'answer': 46672}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '13:22:41', 'answer': 48161}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:17:32', 'answer': 65852}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:44:25', 'answer': 81865}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:36:43', 'answer': 74203}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '11:21:29', 'answer': 40889}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '15:52:48', 'answer': 57168}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:51:47', 'answer': 60707}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:31:45', 'answer': 84705}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '11:38:58', 'answer': 41938}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:29:35', 'answer': 66575}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:13:32', 'answer': 65612}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:42:58', 'answer': 38578}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '11:40:59', 'answer': 42059}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '12:27:19', 'answer': 44839}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:48:32', 'answer': 60512}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:15:34', 'answer': 76534}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:27:25', 'answer': 37645}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:44:23', 'answer': 85463}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '12:19:49', 'answer': 44389}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:28:36', 'answer': 66516}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:12:59', 'answer': 51179}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:33:12', 'answer': 52392}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:49:22', 'answer': 53362}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '12:15:50', 'answer': 44150}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:41:35', 'answer': 63695}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:50:50', 'answer': 60650}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '15:43:26', 'answer': 56606}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '16:14:34', 'answer': 58474}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:12:51', 'answer': 65571}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '19:34:50', 'answer': 70490}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:46:23', 'answer': 78383}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:18:57', 'answer': 65937}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:13:25', 'answer': 51205}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:22:25', 'answer': 37345}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:32:26', 'answer': 84746}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '19:20:42', 'answer': 69642}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '18:16:49', 'answer': 65809}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:44:50', 'answer': 81890}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:28:43', 'answer': 62923}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '19:20:38', 'answer': 69638}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:33:41', 'answer': 38021}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:23:45', 'answer': 77025}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:35:46', 'answer': 74146}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '20:37:11', 'answer': 74231}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:40:12', 'answer': 63612}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '23:21:39', 'answer': 84099}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:47:26', 'answer': 82046}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '21:34:26', 'answer': 77666}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '10:24:23', 'answer': 37463}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '14:11:28', 'answer': 51088}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '22:35:33', 'answer': 81333}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '11:53:29', 'answer': 42809}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '15:47:35', 'answer': 56855}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:43:35', 'answer': 63815}
+{'name': 'HMS_to_s', 'info': 'Convert time value in format HH:MM:SS to seconds', 'payload': '17:13:25', 'answer': 62005}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 71, 'answer': (15836.77, 446.11)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 100, 'answer': (31415.93, 628.32)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 47, 'answer': (6939.78, 295.31)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 52, 'answer': (8494.87, 326.73)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 94, 'answer': (27759.11, 590.62)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 52, 'answer': (8494.87, 326.73)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 5, 'answer': (78.54, 31.42)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 25, 'answer': (1963.5, 157.08)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 62, 'answer': (12076.28, 389.56)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 64, 'answer': (12867.96, 402.12)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 81, 'answer': (20611.99, 508.94)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 47, 'answer': (6939.78, 295.31)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 2, 'answer': (12.57, 12.57)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 67, 'answer': (14102.61, 420.97)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 28, 'answer': (2463.01, 175.93)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 12, 'answer': (452.39, 75.4)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 93, 'answer': (27171.63, 584.34)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 90, 'answer': (25446.9, 565.49)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 16, 'answer': (804.25, 100.53)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 67, 'answer': (14102.61, 420.97)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 85, 'answer': (22698.01, 534.07)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 52, 'answer': (8494.87, 326.73)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 93, 'answer': (27171.63, 584.34)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 84, 'answer': (22167.08, 527.79)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 53, 'answer': (8824.73, 333.01)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 94, 'answer': (27759.11, 590.62)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 42, 'answer': (5541.77, 263.89)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 17, 'answer': (907.92, 106.81)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 66, 'answer': (13684.78, 414.69)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 37, 'answer': (4300.84, 232.48)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 36, 'answer': (4071.5, 226.19)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 91, 'answer': (26015.53, 571.77)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 8, 'answer': (201.06, 50.27)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 34, 'answer': (3631.68, 213.63)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 64, 'answer': (12867.96, 402.12)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 46, 'answer': (6647.61, 289.03)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 48, 'answer': (7238.23, 301.59)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 90, 'answer': (25446.9, 565.49)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 12, 'answer': (452.39, 75.4)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 10, 'answer': (314.16, 62.83)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 3, 'answer': (28.27, 18.85)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 10, 'answer': (314.16, 62.83)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 77, 'answer': (18626.5, 483.81)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 26, 'answer': (2123.72, 163.36)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 14, 'answer': (615.75, 87.96)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 51, 'answer': (8171.28, 320.44)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 7, 'answer': (153.94, 43.98)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 88, 'answer': (24328.49, 552.92)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 93, 'answer': (27171.63, 584.34)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 75, 'answer': (17671.46, 471.24)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 26, 'answer': (2123.72, 163.36)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 31, 'answer': (3019.07, 194.78)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 79, 'answer': (19606.68, 496.37)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 82, 'answer': (21124.07, 515.22)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 24, 'answer': (1809.56, 150.8)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 30, 'answer': (2827.43, 188.5)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 1, 'answer': (3.14, 6.28)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 83, 'answer': (21642.43, 521.5)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 49, 'answer': (7542.96, 307.88)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 84, 'answer': (22167.08, 527.79)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 43, 'answer': (5808.8, 270.18)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 88, 'answer': (24328.49, 552.92)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 96, 'answer': (28952.92, 603.19)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 82, 'answer': (21124.07, 515.22)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 79, 'answer': (19606.68, 496.37)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 36, 'answer': (4071.5, 226.19)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 92, 'answer': (26590.44, 578.05)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 64, 'answer': (12867.96, 402.12)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 6, 'answer': (113.1, 37.7)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 75, 'answer': (17671.46, 471.24)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 38, 'answer': (4536.46, 238.76)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 30, 'answer': (2827.43, 188.5)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 2, 'answer': (12.57, 12.57)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 13, 'answer': (530.93, 81.68)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 31, 'answer': (3019.07, 194.78)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 53, 'answer': (8824.73, 333.01)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 88, 'answer': (24328.49, 552.92)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 87, 'answer': (23778.71, 546.64)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 80, 'answer': (20106.19, 502.65)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 51, 'answer': (8171.28, 320.44)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 33, 'answer': (3421.19, 207.35)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 54, 'answer': (9160.88, 339.29)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 86, 'answer': (23235.22, 540.35)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 82, 'answer': (21124.07, 515.22)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 24, 'answer': (1809.56, 150.8)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 36, 'answer': (4071.5, 226.19)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 59, 'answer': (10935.88, 370.71)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 96, 'answer': (28952.92, 603.19)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 54, 'answer': (9160.88, 339.29)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 18, 'answer': (1017.88, 113.1)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 93, 'answer': (27171.63, 584.34)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 35, 'answer': (3848.45, 219.91)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 88, 'answer': (24328.49, 552.92)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 26, 'answer': (2123.72, 163.36)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 97, 'answer': (29559.25, 609.47)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 88, 'answer': (24328.49, 552.92)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 24, 'answer': (1809.56, 150.8)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 94, 'answer': (27759.11, 590.62)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 38, 'answer': (4536.46, 238.76)}
+{'name': 'Circle_info', 'info': 'Return circle circumference and area given radius, return in form (area, circumference) to 2 decimal places', 'payload': 98, 'answer': (30171.86, 615.75)}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [32, 62, 52, 61, 77, 53, 7, 5, 73, 48, 49, 27, 59, 49, 84, 35, 68, 67, 37, 82, 35, 95, 72, 20, 27, 6, 86], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [34, 9, 61, 50, 1, 87, 13, 75, 92, 75, 97, 91, 10, 43, 11, 7, 25, 83, 5, 12, 23, 63, 40, 34, 69, 24, 95, 73, 89, 4, 19, 75, 74, 21, 3, 100, 75, 24, 42, 10, 48, 64, 93, 99, 75, 15, 0, 56, 59, 48, 74, 46, 37, 86, 0, 22, 87, 99, 31, 60, 97, 27, 4, 33, 90, 61, 95, 85, 19, 96, 22, 40, 48, 75, 4, 59, 26, 82, 67, 23, 13, 46, 99], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [17, 99, 72, 51, 37, 8, 78, 77, 8, 90, 43, 68, 80, 8, 0, 38, 92, 53, 41, 42, 52, 89, 4, 22, 17, 11, 68, 3, 60, 72, 67, 33, 14, 34, 77, 45, 60, 99, 59, 16, 16, 25, 33, 29, 75, 71, 91, 9, 0, 80, 19, 45, 25, 34, 98, 86, 58, 57, 31, 98, 4, 74, 93, 52, 90, 31, 62, 47, 88, 26, 17], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [74, 11, 41, 96, 53, 91, 89, 76, 94, 98, 13, 6, 81, 3, 18, 19, 61, 3, 82, 43, 54, 12, 70, 76, 33, 6, 5, 20, 12, 76, 36, 95, 44, 62, 53, 79, 71, 99, 69, 47, 91, 80, 24, 2, 31, 61, 59, 68, 45, 75, 17, 47, 30, 68, 91, 17, 31, 49, 78, 68, 12, 76, 36, 20], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [24, 41, 24, 42, 57, 95, 6, 92, 86, 66, 17, 41, 71, 54, 52, 87, 54, 60, 74, 10, 1, 65, 73, 97, 42, 87, 54, 10, 54, 3, 71, 22, 81, 14, 55, 95, 72, 15, 37, 97, 94, 14, 100, 8, 0, 57, 92, 50, 49, 58, 59, 20, 15, 77, 9, 5, 33], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [2, 30, 89, 62, 5, 20, 9, 42, 91, 76, 96, 39, 56, 95, 23, 88, 8, 57, 90, 71, 72, 32, 94, 59, 44, 41, 49, 22, 13, 59, 2, 11, 48, 72, 9, 52, 49, 1, 77, 88, 15, 13, 12, 98, 60, 62, 57, 24, 88, 49, 5, 63, 55, 37, 31, 78, 38, 53, 84, 56, 51, 80, 15, 8, 13, 89, 23, 73, 58, 38, 9, 14, 4, 19, 89, 88, 73, 94], 'answer': 48}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [24, 63, 30, 48, 68, 58, 100, 47, 42, 63, 39, 1, 34, 79, 80, 51, 14, 24, 70, 11, 0, 78, 64, 98, 77, 42, 21, 15, 59, 68, 47, 69, 43, 94], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [62, 60, 79, 80, 41, 62, 74, 31, 23, 67, 98, 4, 22, 5, 24, 39, 45, 78, 89, 96, 75, 66, 75, 75, 4, 19, 83, 16, 30, 73, 42, 56, 28, 78, 23, 13, 26, 50, 83, 92, 30, 86, 18, 9, 19, 25, 18, 91, 17, 31, 89, 34, 96, 26, 94, 8, 11, 32, 57, 24, 72, 92, 8, 39, 81, 60, 46, 34, 46, 30, 80, 22, 86, 91, 23, 52, 91, 97, 74, 2, 87], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [75, 96, 86, 13, 13, 24, 80, 22, 93, 10, 94, 58, 42, 30, 100, 100, 73, 23, 8, 78, 50, 14, 56, 26, 6, 54, 57, 57, 30, 29, 57, 99], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [39, 78, 70, 88, 79, 79, 95, 3, 29, 15, 0, 71, 17, 50, 63, 99, 7, 11, 77, 6, 89, 19, 20, 16, 70, 21, 37, 93, 28, 19, 82, 99, 62, 75, 37, 27, 54, 40, 95, 83, 91, 46, 95, 86, 58, 35, 48, 27, 37, 85, 48, 70, 81, 27, 24, 15, 84, 90, 66, 73, 68, 30, 90, 21, 13, 77, 30, 83, 88, 2, 70, 6, 98, 53, 71, 20, 90, 27, 6, 70, 85, 97, 21, 1], 'answer': 53}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [49, 37, 16, 79, 56, 91, 65, 41, 15, 52, 25, 4, 100, 98, 72, 83, 58, 50, 26, 100, 57, 33, 58, 66, 78, 17, 67, 100, 55, 38, 52, 71, 93, 73, 70, 66, 82, 6, 22, 12, 77, 20, 5, 79, 99, 2, 57, 54, 19, 24, 53, 88, 7, 98, 82, 99, 76, 59, 36, 62, 62, 83, 37, 100, 39, 8, 10, 26, 90, 66, 35, 95, 39], 'answer': 55}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [100, 36, 95, 0, 49, 0, 68, 32, 61, 4, 21, 76], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [34, 46, 71, 12, 75, 39, 30, 17, 56, 56, 5, 57, 77, 96, 38, 37, 34, 97, 8, 39, 65, 90, 31, 17, 41, 75, 93, 46, 55, 60, 73, 27, 22, 97, 31, 42, 53, 86, 5, 21, 76, 20, 28, 22, 88, 70, 85, 66, 100, 85, 47, 82, 95, 48, 85, 99, 68, 35, 64, 100, 76, 22, 41, 25, 11, 55, 75, 93, 13, 10, 14, 80, 46, 41, 62, 39, 87, 90, 50, 82, 23, 62], 'answer': 54}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [10, 56, 72, 65, 4, 78, 85, 24, 57, 41, 6, 75, 7, 23, 14, 68, 83, 26, 63, 95, 52, 33, 29, 75, 83, 84, 41, 34, 45, 65, 92], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [84, 49, 73, 43, 8, 86, 99, 56, 88, 14, 96, 9, 62, 0, 19, 79, 9, 85, 66, 60, 24, 13, 29, 56, 8, 48, 0, 96, 96, 100, 8, 55, 17, 44, 68, 98, 19, 38, 86], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [11, 1, 60, 67, 94, 90, 89, 7, 3, 11, 10, 97, 51, 99, 33, 87, 3, 8, 25, 31, 38, 17, 96, 49, 22, 5, 33, 54, 54, 7, 88, 19, 31], 'answer': 42}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [54, 47, 68, 13, 22, 17, 65, 10, 43, 67, 98, 87, 35, 10, 59, 15, 70, 69, 76], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [72, 31, 9, 71, 68, 94, 73, 13, 84, 83, 16, 16, 14, 85, 2, 36, 12, 82, 62, 88, 5, 11, 60, 50, 82, 3, 69, 93, 13, 83, 61, 94, 24, 10, 70, 78, 79, 98, 14, 4, 77, 66, 5, 4, 86, 54, 100, 94, 78, 67, 93, 64, 54, 80, 57, 34, 4, 92, 83, 27, 92, 16, 88, 95, 91, 64, 67, 100, 13, 28, 81, 86, 97, 7, 97, 16, 73, 5, 88, 20, 27, 84, 15], 'answer': 55}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [33, 21, 97, 92, 82, 56, 91, 52, 14, 55, 24, 56, 66, 73, 16, 13, 45, 87, 53, 65, 22, 100, 38, 23, 14, 10, 54, 3, 29, 30, 75, 21, 7, 12, 20, 10, 50, 1, 35, 34, 98, 74, 92, 69, 91, 83, 33, 48, 89, 64, 28, 10, 53, 89, 85, 83, 99, 6, 67, 46, 53, 18, 0, 2, 59, 79, 43, 71, 79, 27, 65], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [78, 57, 100, 20, 10, 7, 97, 95, 15, 48, 11, 89, 98, 100, 13, 83, 27, 90, 30, 97, 13, 28, 26, 33, 42, 23, 17, 32, 71, 44, 95, 98, 40, 72, 26, 53, 72, 34, 52, 3, 79], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [36, 47, 73, 13, 2, 98, 25, 17, 87, 88, 40, 16, 41, 34, 35, 81, 49, 30, 96, 72, 36, 63, 47, 7, 40, 90, 80, 35, 99, 15, 52, 71, 5, 70, 0, 19, 19, 47, 55, 10, 36, 17, 35, 68, 30, 100, 43, 3], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [47, 17, 44, 90, 23, 5, 86, 42, 28, 88, 21, 6, 49, 3, 62, 97, 34], 'answer': 44}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [49, 98, 23, 27, 53, 14, 74, 78, 39, 71, 35, 78, 58, 39, 3, 3, 26, 38], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [56, 41, 91, 62, 25, 78, 31, 51, 55, 18, 76, 62, 92, 34, 67, 60, 33, 73, 55, 57, 33, 17, 31, 45, 76, 41, 22, 68, 20, 44, 0, 18, 81, 58, 72, 79, 70, 35, 29, 94, 4, 62], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [64, 5, 37, 39, 64, 70, 92, 77, 3, 25, 31, 36, 67, 55, 16, 1, 12, 62, 45, 56, 45, 16, 97, 49, 9, 38, 27, 10, 65, 76, 57, 6, 53, 83, 68, 67, 78, 71, 3, 77, 58, 61, 73, 100, 74, 56, 79, 65, 13, 10, 36, 19, 47, 42, 56, 99, 13, 24, 64, 6, 18, 57, 59, 41, 25, 57, 61, 1, 61, 49, 8, 50, 56, 100, 20, 91, 24, 84, 77, 34, 22, 58, 1, 4, 45, 14, 91, 38, 89, 23, 43, 93], 'answer': 47}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [52, 0, 77, 85, 14, 41, 98, 95, 16, 89, 82, 14, 22, 48, 6, 36, 29, 77, 85, 75, 21, 6, 56, 54, 84, 68, 7, 76, 88, 5, 57, 21, 47, 58, 93, 86, 28, 60, 28, 73, 74, 80, 80, 42, 97, 74, 24, 48, 56, 93, 63, 100, 53, 44, 56, 89, 19], 'answer': 55}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [53, 42, 65, 70, 10, 25, 31, 13, 31, 98, 46, 59, 58, 59, 18, 38, 45, 91, 27, 13, 33, 13, 20, 32, 52, 33, 30, 74, 63, 66, 83, 30, 31, 67, 45, 36, 55, 56, 12, 99, 31, 86, 50, 29, 66, 7, 59, 73, 17, 65, 95, 13, 27, 47, 9, 20, 100, 25, 18, 4, 31, 0, 14, 2, 22], 'answer': 42}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [80, 54, 8, 49, 13, 84, 56, 73, 64, 10, 9, 33, 100, 37, 85, 12, 85, 60], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [74, 63, 41, 17, 50, 77, 39, 98, 91, 94, 49, 58, 12, 8, 6, 65, 83, 13, 82, 70, 89, 52, 37, 47, 61, 61, 7, 44, 15, 31, 77, 36, 27, 54, 34, 19, 8, 42, 83, 45, 42, 46, 54, 19, 31, 20, 11, 44, 71, 29, 86, 4, 57, 40, 99, 65, 87, 66, 14, 16, 99, 33, 95], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [4, 96, 39, 89, 54, 69, 83, 28, 45, 36, 44, 49, 78, 21, 42, 92, 99, 72, 68, 99, 57, 53, 60, 53, 58, 92, 76, 31, 82, 82, 83, 85, 12, 80, 85, 46, 85, 91, 55, 59, 28, 1, 51, 53, 32, 53, 56, 64, 46, 33, 76, 38, 36, 95, 79, 18, 55, 31, 69, 61, 37, 39, 74, 48, 21, 80, 37, 77, 6, 42, 100, 30, 43, 79, 12, 1, 74, 68, 15, 78, 40, 84, 54, 96], 'answer': 56}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [76, 16, 26, 93, 68, 65, 11, 65, 53, 59, 57, 68, 64, 97, 86, 18, 4, 7, 36, 90, 54, 87, 38, 64, 0, 23, 88, 1, 62, 36, 9, 7, 12, 100, 64, 33, 63, 13, 95, 30, 85, 22, 61, 30, 36, 81, 77, 24, 12, 94, 83, 97, 47, 66, 17, 12, 42, 72, 66, 6, 53, 29, 63, 39, 40], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [83, 45, 34, 40, 34, 17, 82, 97, 43, 69, 76, 35, 74, 7, 12, 67, 69, 85, 62, 38, 19, 45, 84, 6, 49, 83, 7, 86, 5, 54, 28, 27, 99, 56, 39, 33, 50, 95, 67, 12, 40, 78, 65, 60, 82, 13, 21, 39, 100, 34, 64, 33, 83, 8, 28, 96], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [69, 36, 53, 53, 3, 35, 9, 70, 20, 100, 2, 37, 96, 37, 2, 31, 97, 71, 74, 94, 18, 89, 69, 6, 91, 58, 96, 17, 91, 38, 23, 60, 55, 6, 55, 82, 86, 17, 16, 47, 89, 95, 28, 87, 14, 7, 79, 51, 11, 50, 48, 27, 71, 97, 91, 54, 99, 22], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [7, 75, 69, 67, 71, 64, 50, 72, 66, 35, 9, 37, 48, 92, 61, 58, 72], 'answer': 56}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [22, 93, 71, 47, 5, 42, 21, 6, 32, 90, 28, 37, 49, 67, 75, 88, 30, 26], 'answer': 46}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [24, 71, 91, 93, 63, 63, 47, 53, 98, 69, 18, 24, 65, 60, 27, 31, 22, 74, 77, 30, 89, 23, 1, 45, 14, 69, 49, 98, 4, 19, 97, 41, 86, 18, 27, 45, 64, 96, 56, 37, 36, 81, 24, 93, 3, 18, 40, 47, 81, 66, 30, 83, 8, 97, 53], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [68, 12, 84, 17, 51, 86, 99, 34, 47, 82, 47, 87, 66, 6, 29, 58, 59, 62, 8, 67, 7], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [10, 36, 78, 90, 73, 53, 93, 34, 94, 48, 21, 17, 66, 33], 'answer': 53}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [52, 34, 1, 30, 30, 12, 84, 63, 95, 48, 64, 5, 84, 21, 46, 73, 44, 63, 62, 71, 96, 66, 32, 80, 47, 17, 99, 86, 55, 37, 5, 66, 16, 82, 66, 50, 64, 29, 55, 7, 50, 97, 85, 20, 24, 95, 88, 45, 40, 45, 52, 86, 56, 73, 89, 98, 5, 15, 38, 100, 83, 73, 58, 17, 17, 99, 18, 7, 55, 18, 38, 36, 47, 48, 32, 34], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [38, 53, 4, 72, 4, 29, 54, 64, 89, 40, 97, 21, 49, 97, 52, 8, 44, 57, 78, 27, 31, 35, 31, 6, 89, 47, 26, 66, 70, 59, 26, 11, 90, 43, 75, 32, 60, 82, 76, 91, 49, 95, 1, 22, 19, 13, 84, 42, 7, 70, 34, 13, 3, 52, 37, 12, 5, 36, 83, 35, 10, 34, 58, 47, 5, 11, 100, 85, 50, 83, 11], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [84, 87, 20, 8, 10, 37, 82, 18, 62, 20, 70, 68, 89, 35, 3, 68, 59, 40, 4, 9, 94, 44, 23, 57, 29, 31, 31, 67, 95, 58, 71, 2, 53, 5, 82, 58, 47, 34, 51, 49, 79, 87, 22, 39, 39, 29, 31, 90, 6, 16, 25, 17, 63, 28, 69, 96, 12, 84, 12, 47, 89, 14, 72, 90, 4, 58, 60], 'answer': 47}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [3, 97, 33, 64, 25, 45, 36, 91, 75, 90, 14, 79, 48, 18, 87, 14, 19, 48, 54, 73, 69, 2, 31, 23, 75, 96, 16, 43, 32, 16, 73, 92, 64, 14, 29, 31, 67, 26, 99, 3, 55, 81, 70, 88, 85], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [88, 77, 62, 37, 10, 66, 11, 52, 42, 86, 53, 99, 81, 8, 33, 91, 74, 18, 49, 32, 7, 15, 15, 9, 12, 39, 50, 16, 93, 32, 14, 49, 79, 56, 5], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [91, 76, 88, 15, 7, 37, 4, 33, 23, 59, 2, 62, 57, 74, 61, 81, 84, 16, 12, 89, 3, 77, 20, 98, 57, 53, 97, 49, 68, 46, 21, 81, 90, 33, 57, 28, 33, 18, 10, 8, 79, 24, 85, 96, 91, 80, 1, 38, 0, 43, 7, 64, 40, 27, 36, 94, 36, 43, 84, 42, 80], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [84, 63, 54, 99, 28, 36, 23, 100, 11, 28, 33, 87, 33, 54, 20, 96, 54, 64, 74, 21, 51, 5, 79, 89, 58, 62, 90, 89, 11, 10, 11, 48, 40, 26, 42, 94, 45, 16, 65, 1, 14, 78, 77, 28, 52, 59, 7, 19, 86, 0, 38, 100, 94, 86, 1, 78, 7, 0, 17, 25, 18, 98, 16, 50, 96, 45, 38, 59, 89, 46, 42, 74, 62, 10, 75, 30, 33, 66, 54, 17, 72, 26, 35], 'answer': 48}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [14, 61, 15, 40, 25, 92, 32, 88, 74, 44, 34, 82, 73, 30, 87, 0, 28, 16, 96, 36, 37, 25, 92, 70, 17, 44, 70, 20, 9, 64, 88, 80, 62, 34, 93, 78, 50, 3, 4, 37, 88, 48, 12, 40, 38, 43, 54, 49, 70, 39, 59, 73, 93, 27, 57, 72, 15, 80, 93, 9, 85, 26, 53], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [8, 61, 45, 17, 17, 11, 22, 31, 69, 15, 45, 51, 55, 10, 52, 21, 49, 22, 98, 34, 10, 28, 22, 72, 24, 71, 23, 26, 91, 26, 37, 49, 62, 86, 73, 77, 62, 14, 15, 6, 86, 67, 74, 61, 69, 48, 7, 61, 58, 61, 99, 88, 8, 10, 100, 100, 4, 78, 87, 22, 17, 73, 7, 38, 16], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [87, 74, 16, 79, 73, 100, 28, 51, 49, 9, 78, 14, 47, 57, 62, 58, 5, 70, 22, 7, 2, 47, 72, 2, 23, 30, 66, 51, 42, 22, 4, 57, 82, 59, 45, 41, 58, 5, 92, 3, 33, 49, 94, 25, 49, 89, 45, 69, 34], 'answer': 46}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [48, 61, 96, 72, 18, 24, 96, 31, 32, 83, 28, 36, 10, 80, 93, 22, 45, 43, 99, 21, 3, 33, 91, 34, 67, 85, 22, 32, 3, 94, 60, 51, 70, 44, 94, 73, 99, 40, 0, 19, 1, 77, 41, 85, 43, 58, 70, 3, 71, 50, 13, 48, 6, 16, 75, 15, 77, 38], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [84, 77, 18, 78, 21, 25, 94, 85, 33, 39, 28, 81, 20, 21, 87, 30, 22, 1, 67, 82, 75, 77, 17, 8, 56, 12, 87, 16, 41, 60, 60, 13, 91, 23, 100, 9, 28, 39, 77, 59, 36, 29, 67, 59, 45, 51, 54, 48, 26, 88, 9, 20, 35, 47, 17, 56, 94, 26, 97, 38, 17, 12, 34, 26], 'answer': 46}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [70, 6, 28, 30, 66, 92, 90, 5, 5, 83, 19, 61, 18, 39, 87, 37, 57, 77, 81, 59, 21, 68, 29, 17, 89, 75], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [39, 21, 16, 70, 28, 28, 44, 45, 72, 99, 6, 25, 70, 2, 34, 80, 68, 55, 18, 40, 5, 6, 11, 15, 17, 65, 19, 12, 3, 7, 6, 59, 48, 97, 11, 6], 'answer': 35}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [76, 26, 97, 2, 97, 63, 79, 90, 4, 29, 53, 78, 66, 61, 22, 58, 23, 43, 87, 8, 47, 90, 41, 94, 85, 10, 14, 86, 37, 24, 21, 49, 28, 26, 69, 68, 61, 79, 91, 19, 94, 34, 28, 49, 8, 47, 28, 56, 21, 39, 20, 21, 79, 70, 94, 45, 80, 84, 79, 67, 44, 18, 3, 94, 57, 10, 87, 33, 54, 88, 12, 50, 45, 70, 32, 1, 28, 86, 53], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [57, 53, 55, 34, 74, 51, 21, 94, 84, 84, 72, 30, 20, 13, 62, 13, 68, 64, 52, 82, 65, 65, 43, 73, 83, 80, 77, 37, 57, 47, 19, 19, 46, 30, 67, 99, 50, 25], 'answer': 54}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [53, 16, 22, 58, 49, 26, 60, 1, 87, 35, 24, 15, 96, 76, 49, 33, 52, 78, 55, 5, 90, 86, 37, 4, 100, 54, 9, 85, 48, 56, 4, 83, 33, 54, 97, 80, 27, 62, 65, 80, 3, 60, 60, 64, 13, 4, 57, 34, 87, 77, 22, 48, 21, 45, 14, 3, 39, 91, 12, 19, 12, 18, 85, 67, 80, 48, 21, 65, 2, 46, 7, 42, 45, 64, 1, 13, 48, 66, 47, 96, 65], 'answer': 46}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [31, 80, 80, 19, 66, 77, 52, 95, 77, 94, 96, 50, 76, 58, 8, 17, 30, 64, 44, 34, 6, 95, 55, 57, 9, 43, 74, 64, 47, 98, 22, 23, 81, 67, 84, 39, 7, 22, 26, 10, 17, 11, 29, 79, 99, 29, 4, 73, 74, 80, 34, 9, 11, 22, 13, 82, 20, 68, 19, 28, 87, 97, 60, 17, 95, 56, 26, 30, 94, 74, 79, 98, 67, 72, 72, 11, 74, 37, 30, 40, 14, 10, 19, 58, 95, 23, 87, 16], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [92, 43, 95, 17, 51, 61, 85, 62, 57, 91, 78], 'answer': 67}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [79, 67, 20, 7, 39, 78, 30, 89, 54, 10, 6, 94, 80, 26, 51, 88, 23, 52, 28, 85, 13, 85, 18, 40, 25, 20, 66, 61, 31, 76, 87, 48, 10, 59, 21, 31, 15, 6, 19, 89, 0, 82, 7, 89, 70, 82, 86, 94, 41, 50, 27, 85, 4, 83, 11, 33, 27, 11, 100, 27, 84, 15, 80, 26, 82, 80, 4, 46, 96, 97, 43, 83, 50, 15, 72, 24, 68, 83, 43, 70, 47, 8], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [82, 71, 31, 20, 75, 26, 80, 61, 57, 73, 92, 56, 67, 57, 43, 42, 72, 43, 89, 69, 40, 0, 87, 33, 70, 23, 26, 79, 18, 67, 85, 14, 10, 82, 96, 98, 11, 9, 51, 69, 23, 62, 24, 51, 80, 15, 3, 94, 58, 31, 16, 17, 63, 4, 11, 39, 76, 30, 46, 74, 83, 69, 74, 9, 58, 61, 77, 38, 83, 86, 8, 4, 49, 26, 27, 51], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [48, 18, 31, 97, 10, 35, 33, 22, 36, 92, 62, 45, 26, 79, 54, 58, 1, 25, 81, 18, 6, 3, 95, 27, 10, 49, 68, 11, 74, 38, 81, 98, 7, 4, 50, 43, 33, 76, 28, 73, 97, 90, 11, 80, 95, 24, 88, 76, 89, 43, 65, 42, 49, 21, 94, 74, 4, 2, 46, 72, 54, 43, 6, 80, 61, 17, 85, 90, 73, 52, 74, 82, 47, 39, 95, 50, 46], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [86, 6, 59, 11, 54, 65, 74, 7, 89, 72, 33, 22, 19, 17, 48, 4, 25, 4, 98, 49, 64, 85, 38, 83, 56, 35, 67, 45, 53, 41, 74, 11, 38, 18, 65, 65, 98, 67, 8, 90, 83, 46, 5], 'answer': 48}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [12, 72, 80, 27, 49, 46, 62, 44, 61, 24, 3, 51, 79, 25, 100, 78, 74, 18, 56], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [43, 61, 17, 7, 44, 8, 76, 19, 3, 5, 37, 56, 1, 68, 38, 99, 24, 18, 2, 14, 12, 50, 36, 85, 38, 31, 87], 'answer': 36}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [54, 83, 24, 59, 22, 26, 12, 7, 85, 55, 49, 61, 64, 76, 27, 15, 69, 71], 'answer': 48}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [71, 53, 94, 57, 29, 97, 18, 39, 4, 75, 50, 81, 78, 66, 39, 36, 87, 67, 9, 13, 1, 88, 1, 59, 6, 81, 65, 1, 25, 87, 90, 4, 7, 35, 58, 23, 4, 42, 23, 59, 63, 57, 7, 69, 81, 87, 14, 95, 95, 67, 4, 15, 100, 81, 97, 73, 30, 12, 14, 51, 69, 33, 34, 12, 87, 29, 12, 25, 91, 77, 52, 34, 19, 82, 15, 78, 84, 68, 75, 8, 9, 20, 16, 60, 27, 49, 69, 32, 85], 'answer': 48}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [32, 33, 82, 27, 91, 76, 42, 29, 27, 33, 24, 21, 97, 68, 68, 36, 50, 68, 13, 11, 63, 14, 82, 98, 41, 63, 50, 49, 27, 58, 61, 90, 75, 8, 77, 24, 51, 60, 92, 35, 96, 85, 2, 93, 96, 54, 96, 51, 91, 56, 91, 9, 70, 97, 39, 25, 68, 53, 45, 91, 99, 21, 73, 65, 35, 96, 85, 26], 'answer': 57}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [53, 94, 0, 30, 38, 19, 14, 64, 72, 15, 74, 98, 58, 26, 42, 79, 88, 0, 88, 20, 81, 82, 61, 98, 19, 19, 4, 89, 70, 11, 96, 68, 66], 'answer': 53}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [97, 0, 2, 86, 27, 58, 93, 62, 56, 11, 64, 90, 91, 40, 54, 8, 35, 40, 11, 27, 31, 82, 61, 32, 10, 98, 72, 23, 73, 69, 46], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [93, 51, 46, 68, 1, 83, 49, 37, 92, 97, 53, 34, 5, 19, 40, 93, 84, 29, 84, 75, 87, 21, 82, 29, 60, 66, 77, 16, 88, 36], 'answer': 56}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [45, 70, 47, 50, 94, 40, 57, 26, 59, 32, 77, 34, 20, 65, 69, 21, 11, 99, 61, 70, 95, 26, 7, 50, 80, 57, 68, 63, 21, 71, 92, 51, 47, 65, 40, 37, 54, 31, 38, 15, 94, 27, 30, 81, 45, 29, 66, 17, 95, 29, 9, 73, 5, 51, 22, 65, 4, 52, 67, 88, 76, 99, 98, 92, 96, 22, 62, 58, 65, 49, 50, 7, 83, 62, 13, 6, 14, 32, 95, 8, 55, 54, 82, 68, 25, 43, 23, 95, 87, 2, 97, 54, 56, 92, 100], 'answer': 53}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [72, 83, 49, 30, 4, 62, 60, 93, 95, 38, 59, 35, 66, 42, 29, 79, 13, 67, 31, 75, 73, 29, 83, 47, 95, 61, 86, 83, 26, 98, 66, 25, 32, 75, 7, 84, 66, 37, 21, 88, 53, 74, 38, 14, 88, 72, 18, 93, 56, 27, 38, 25, 16, 63, 68, 87, 51, 61, 6, 96, 83, 69, 29, 15, 38, 98, 12, 50, 40, 76, 45, 63, 94, 78, 49, 26, 5, 38, 81, 64, 53, 38, 47, 54, 13, 14, 7, 20, 58, 98, 100, 35, 33, 32], 'answer': 53}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [92, 34, 7, 22, 19, 5, 36, 77, 29, 90, 24, 51, 17, 57, 87, 49, 28, 71, 7, 88, 54, 59, 47, 22, 16, 24, 14, 88, 36, 14, 80, 80, 35, 46, 0, 56], 'answer': 43}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [51, 27, 82, 60, 40, 77, 3, 4, 69, 10, 89, 39, 9, 50, 6, 19, 84, 5, 60, 77, 13, 80, 29, 47, 27, 11, 97, 1, 40, 9, 81, 72, 60, 18, 94, 87, 37, 62, 93, 62, 33, 7, 41, 67, 69, 35, 15, 34, 56, 0, 2, 27, 37, 64, 85, 92, 41, 63, 39, 5, 44, 20, 84, 21, 36, 16, 40, 79, 14, 30, 9, 19, 22, 50, 96], 'answer': 44}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [72, 100, 52, 16, 2, 79, 71, 66, 69, 20, 63, 4, 81, 31, 79, 24, 86, 23, 35, 66, 73, 34, 32, 36, 46, 33, 74, 56, 6, 42, 30, 75, 77, 10, 52, 91, 40, 94, 25, 98, 56], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [26, 59, 37, 37, 0, 83, 53, 70, 5, 10, 68, 72, 59, 6, 27, 43, 29, 81, 8, 71, 45, 39, 65, 4, 73, 93, 66, 31, 76, 50, 27, 34, 14, 49, 89, 48, 99, 76, 79, 30, 54, 62, 0, 92, 58, 42, 86, 19, 5, 33, 8, 71, 72, 78, 45, 60, 85, 10, 91, 44, 40, 26, 5, 3, 97, 77, 87, 81, 80, 41, 17, 46, 39, 22, 64, 66, 5, 98, 48, 80, 32, 69, 3, 34, 22, 37, 43, 93], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [46, 18, 22, 61, 14, 29, 60, 30, 93, 0, 52, 27, 21, 42, 14, 10, 89, 84, 73, 80, 63, 26, 3, 81, 35, 47, 82, 100, 46, 38, 17, 14, 6, 48, 77, 29, 0, 100, 81, 20, 61, 21, 55, 42, 82, 18, 14, 97, 72, 83, 34, 61, 94, 97, 4, 40, 10, 27, 86, 52, 89, 89, 89, 74, 52], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [67, 91, 81, 3, 72, 76, 92, 7, 29, 63, 16, 40, 15, 63, 30, 46, 38, 26, 11, 52, 79, 75, 28, 34, 40, 83, 97, 34, 24, 84, 92, 69, 75, 48, 42, 53, 36, 8, 53, 46, 100, 87, 48, 24, 61], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [94, 66, 62, 52, 60, 91, 15, 45, 100, 4, 93, 50, 50, 32, 68], 'answer': 59}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [22, 6, 85, 55, 48, 13, 31, 42, 8, 90, 8, 86, 67, 48], 'answer': 44}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [85, 72, 58, 47, 14, 46, 34, 46, 91, 63, 8, 4, 84, 32, 34, 58, 0, 82, 97, 20, 89, 53, 33, 53, 26, 23, 69, 9, 89, 34, 87, 4, 30, 5, 76, 45, 51, 19, 14], 'answer': 46}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [49, 40, 38, 40, 99, 6, 85, 25, 76, 21, 62, 89, 61, 22, 61, 68, 86, 87, 58, 80, 77, 70, 90, 84, 71, 30, 49, 2, 83, 50, 5, 51, 39, 0, 39, 55, 63, 21, 59, 22, 69, 65, 12, 24, 37, 5, 27, 88, 35, 28, 14, 23, 86, 78, 76, 1, 4, 94, 25, 67, 4, 44, 92, 5, 46, 14, 17, 15, 97, 97, 94], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [38, 49, 79, 99, 4, 37, 9, 46, 32, 43, 25, 7, 73, 65, 7, 26, 37, 19, 98, 89, 100, 39, 31, 27, 0, 41, 64, 25, 80, 6, 60, 37, 81, 51, 90, 57, 68, 66, 68, 35, 94, 71, 8, 77, 42, 63, 37, 17, 46, 23, 42, 95, 89, 33, 54, 22, 98, 23, 85, 28, 36, 33, 57, 4, 36, 76, 25, 93, 45, 29, 25, 27, 27, 15, 84, 51, 48, 23, 59, 66, 29, 1, 61, 25], 'answer': 47}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [21, 69, 31, 73, 91, 99, 33, 56, 90, 39, 26, 86, 20], 'answer': 56}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [29, 0, 9, 85, 90, 98, 49, 7, 79, 45, 39, 77], 'answer': 51}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [17, 52, 16, 31, 4, 38, 69, 47, 79, 49, 90, 19, 100, 19, 68, 22, 89, 77, 90, 78, 64, 8, 85, 44, 19, 59, 39, 20, 51, 40, 76, 5, 35, 90, 86, 37, 81, 1, 95, 21, 12, 95, 16, 36, 1, 1, 88, 32, 46, 25, 94, 73, 53, 5, 80, 82, 29, 91, 24, 76, 53, 30, 74, 30, 63, 49, 13, 12, 39, 89, 65, 55, 85], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [33, 43, 13, 4, 51, 49, 66, 21, 9, 76, 37, 32, 94, 87, 70, 55, 41, 53, 92, 100, 73, 72, 84, 79, 68, 87, 61, 23, 65, 18, 87, 20, 89, 100, 0, 15, 33, 78, 4, 75, 72, 26, 37, 59, 91, 54, 57, 75, 52, 84, 49, 72, 1, 76, 62, 66, 60], 'answer': 55}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [56, 43, 70, 82, 78, 98, 50, 2, 37, 8, 33, 55, 70, 57, 0, 96, 96, 68, 3, 38, 23, 39, 20, 2, 56, 59, 89, 20, 99, 61, 50, 55, 38, 17, 50, 13, 90, 64, 83, 39, 79, 24, 64, 72, 41, 14, 87, 74, 91, 54, 31, 77, 25, 95, 69, 16, 73], 'answer': 53}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [35, 67, 12, 18, 40, 87, 30, 49, 52, 55, 46, 51, 5, 73, 79, 90, 78, 14, 45, 26, 32, 50, 72, 20, 55, 70, 49, 30, 33, 69, 37, 3, 62, 29, 99, 71, 10, 64, 6, 66, 71, 13, 78, 66, 16, 82, 7, 81, 89, 39, 17, 50, 86, 59, 80, 2, 35, 60, 8, 71, 34, 65, 82, 77, 85, 69], 'answer': 50}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [95, 69, 1, 70, 72, 48, 25, 25, 18, 50, 22, 96, 94, 29, 28, 49, 13, 21, 37, 89, 81, 46, 34, 94, 52, 13, 59, 93, 28, 60, 4, 31, 20, 4, 9, 82, 76, 47, 44, 64, 81, 2, 58, 67, 0, 97, 26, 85, 29, 77, 19, 34, 1, 3, 52, 53, 1, 89, 76, 37, 70, 62, 49, 78, 15, 55, 19, 68, 63, 37, 88, 11, 56, 4], 'answer': 47}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [23, 69, 81, 17, 6, 88, 84, 8, 62, 78, 69, 91, 83, 77, 18, 19, 45, 80, 40, 90, 69, 86, 79, 82, 86, 62, 22, 28, 91, 54, 27, 64, 4, 57, 83, 7, 69, 30, 94, 5, 73, 68, 96, 57, 93, 37, 67, 9, 56, 71, 77, 75, 34, 36, 3, 85, 23, 96, 0, 0, 99, 38, 3, 21, 27, 18, 100, 54, 13, 66, 87, 3, 12, 85, 44, 57, 34, 88, 42, 2, 87, 29, 99, 19, 51, 37], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [81, 54, 31, 43, 14, 7, 96, 79, 24, 55, 9, 93, 91, 49, 32, 76, 86, 98, 9, 20, 14, 21, 37, 28, 49, 68, 50, 3, 61, 96, 8, 28, 53], 'answer': 47}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [94, 58, 78, 74, 1, 49, 46, 20, 50, 94, 2, 59, 22, 51, 94, 39, 33, 70, 87, 33, 6, 87, 20, 34, 59, 93, 10, 82, 52, 97, 61, 79, 58, 87, 82, 23, 13, 62, 69, 34, 42, 82, 80], 'answer': 55}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [63, 8, 41, 2, 100, 83, 58, 38, 50, 3, 54], 'answer': 45}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [77, 33, 90, 61, 32, 40, 56, 86, 71, 19, 15, 9, 92, 29, 86, 83, 9, 1, 31, 50, 42, 72, 71, 20, 23, 71, 98, 8], 'answer': 49}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [35, 99, 6, 77, 36, 31, 65, 89, 37, 87, 29, 58, 67, 74, 1, 63, 67, 80, 29, 30, 40, 100, 89, 75, 64, 70, 77, 48, 67, 67, 17, 45, 69, 47, 43, 15, 12, 86, 45, 38, 1, 37, 16, 19, 16, 80, 19, 1, 98, 81, 20, 59, 44, 100, 88, 100, 47, 36, 76, 52, 78, 8, 11, 8, 48, 75, 42, 19, 82, 61, 59, 32, 75, 56, 29, 62, 71], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [65, 66, 7, 91, 43, 10, 81, 19, 86, 10, 52, 43, 63, 81, 44, 45, 36, 76, 36, 38, 100, 23, 44, 50, 94, 69, 9, 100, 89, 5, 35, 40, 44, 90, 21, 74, 66, 5, 83, 26, 37, 64, 88, 89, 51, 69, 59, 10, 11, 43, 96, 5, 8, 25, 51, 75, 83, 58, 44, 55, 73, 24, 24, 8, 54, 30, 95, 86, 48, 81, 50, 5, 74, 19, 89, 37, 90, 92, 77, 22, 92, 18, 20], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [9, 91, 63, 88, 25, 96, 70, 87, 4, 37, 36, 95, 52, 30, 43], 'answer': 55}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [77, 77, 82, 46, 6, 93, 58, 18, 58, 37, 44, 77, 57, 18, 42, 26, 72], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [100, 73, 67, 79, 41, 39, 95, 75, 86, 63, 93, 48, 28, 44, 63, 37, 55, 88, 9, 79, 62, 11, 91, 22, 5, 59, 60, 8, 15, 39, 84, 76, 46, 18, 100, 25, 37, 86, 23, 8, 65, 51, 96, 91, 49, 0, 16, 44, 13, 84, 4, 57, 64, 64, 39, 98, 59, 41, 64, 30, 34, 87, 57, 70, 6, 45, 76, 29, 65, 86, 42, 84, 48, 15, 3, 11], 'answer': 52}
+{'name': 'Average_score', 'info': 'Given a list of scores, return the average to nearest whole number', 'payload': [7, 11, 61, 68, 9, 74, 3, 0, 13, 19, 17, 70, 63, 67, 69, 92, 76, 54, 94, 13, 38, 59, 26, 18, 25, 50, 9, 49, 83, 39, 100, 74, 32, 32, 18, 56, 57, 15, 59, 31, 93], 'answer': 45}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 56, 'Jim': 12, 'Peter': 20, 'Jack': 18, 'Harry': 86, 'Bob': 48, 'James': 90, 'Tod': 86, 'Bruce': 14, 'Henry': 8, 'Ben': 85, 'Sam': 57}, 'answer': ('Henry', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 51, 'Bob': 38, 'Jack': 31, 'Harry': 5, 'Rob': 1, 'Bruce': 95, 'Ben': 96, 'Sam': 33, 'Peter': 95, 'Jim': 36, 'Henry': 53, 'James': 40}, 'answer': ('Rob', 'Ben')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bob': 14, 'Peter': 60, 'Jim': 61, 'Henry': 21, 'James': 64, 'Ben': 20, 'Bruce': 5, 'Sam': 58, 'Harry': 72, 'Tod': 96, 'Rob': 82, 'Jack': 57}, 'answer': ('Bruce', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 97, 'Bruce': 72, 'Henry': 97, 'Jim': 40, 'Harry': 3, 'Rob': 82, 'Sam': 21, 'Bob': 76, 'Ben': 87, 'Peter': 34, 'Jack': 9, 'James': 76}, 'answer': ('Harry', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Harry': 16, 'Sam': 64, 'Tod': 39, 'Jim': 20, 'Rob': 69, 'Peter': 90, 'Bruce': 52, 'Jack': 62, 'Henry': 89, 'Ben': 56, 'James': 45, 'Bob': 38}, 'answer': ('Harry', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 57, 'Bob': 52, 'Sam': 19, 'Harry': 97, 'Jack': 54, 'Jim': 51, 'Henry': 3, 'Peter': 21, 'Tod': 37, 'Ben': 90, 'James': 9, 'Bruce': 58}, 'answer': ('Henry', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Harry': 14, 'Ben': 40, 'Jim': 50, 'James': 94, 'Sam': 95, 'Jack': 70, 'Rob': 9, 'Tod': 41, 'Peter': 35, 'Bob': 82, 'Bruce': 70, 'Henry': 86}, 'answer': ('Rob', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 19, 'James': 75, 'Harry': 8, 'Jack': 56, 'Henry': 80, 'Sam': 94, 'Ben': 68, 'Bob': 17, 'Rob': 21, 'Jim': 98, 'Bruce': 81, 'Peter': 30}, 'answer': ('Harry', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 14, 'Tod': 91, 'Harry': 42, 'Jack': 49, 'Jim': 77, 'Bob': 98, 'Ben': 33, 'Peter': 65, 'Bruce': 79, 'Henry': 86, 'Sam': 97, 'Rob': 79}, 'answer': ('James', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 53, 'Henry': 10, 'Bob': 50, 'Ben': 99, 'Tod': 76, 'Rob': 64, 'Sam': 24, 'Harry': 18, 'Jack': 29, 'Peter': 16, 'Jim': 31, 'Bruce': 96}, 'answer': ('Henry', 'Ben')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 27, 'Ben': 14, 'James': 51, 'Jim': 1, 'Jack': 89, 'Sam': 3, 'Harry': 87, 'Henry': 87, 'Rob': 39, 'Bruce': 77, 'Peter': 3, 'Bob': 8}, 'answer': ('Jim', 'Jack')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 82, 'Jim': 16, 'Bruce': 38, 'Rob': 93, 'Henry': 34, 'Bob': 84, 'Ben': 92, 'Harry': 52, 'James': 4, 'Peter': 41, 'Sam': 35, 'Jack': 50}, 'answer': ('James', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Ben': 77, 'James': 16, 'Henry': 13, 'Jack': 36, 'Bruce': 43, 'Harry': 89, 'Bob': 40, 'Rob': 13, 'Jim': 5, 'Peter': 34, 'Tod': 22, 'Sam': 13}, 'answer': ('Jim', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 87, 'Bob': 49, 'Bruce': 19, 'Henry': 56, 'Rob': 56, 'Tod': 16, 'James': 70, 'Jack': 5, 'Jim': 89, 'Harry': 6, 'Peter': 9, 'Ben': 78}, 'answer': ('Jack', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 65, 'Harry': 78, 'Sam': 43, 'Bob': 90, 'Tod': 73, 'Jim': 49, 'Henry': 48, 'Ben': 71, 'Rob': 100, 'Bruce': 61, 'Peter': 100, 'James': 98}, 'answer': ('Sam', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 61, 'Henry': 71, 'Harry': 69, 'Sam': 45, 'Ben': 23, 'James': 10, 'Tod': 61, 'Bob': 66, 'Jim': 75, 'Bruce': 14, 'Jack': 21, 'Rob': 93}, 'answer': ('James', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Harry': 15, 'James': 30, 'Sam': 92, 'Peter': 88, 'Rob': 35, 'Ben': 41, 'Bob': 61, 'Tod': 51, 'Bruce': 25, 'Jack': 45, 'Henry': 49, 'Jim': 0}, 'answer': ('Jim', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 23, 'Ben': 42, 'Jack': 81, 'Peter': 79, 'Sam': 39, 'Jim': 94, 'Rob': 92, 'James': 48, 'Harry': 17, 'Henry': 38, 'Bob': 48, 'Bruce': 39}, 'answer': ('Harry', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 91, 'James': 26, 'Peter': 26, 'Bruce': 33, 'Rob': 100, 'Jack': 46, 'Ben': 100, 'Tod': 43, 'Harry': 60, 'Jim': 68, 'Bob': 26, 'Henry': 37}, 'answer': ('James', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jim': 89, 'Tod': 7, 'Jack': 40, 'Peter': 65, 'Bruce': 78, 'Henry': 52, 'Rob': 91, 'Ben': 50, 'James': 16, 'Sam': 2, 'Bob': 39, 'Harry': 99}, 'answer': ('Sam', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 37, 'Ben': 78, 'Harry': 30, 'Jack': 37, 'Henry': 56, 'Peter': 65, 'Sam': 20, 'James': 73, 'Jim': 34, 'Bob': 56, 'Rob': 77, 'Tod': 75}, 'answer': ('Sam', 'Ben')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Harry': 47, 'Ben': 14, 'Jim': 27, 'Bruce': 99, 'Tod': 75, 'Henry': 4, 'Rob': 50, 'Sam': 90, 'James': 45, 'Peter': 59, 'Jack': 37, 'Bob': 30}, 'answer': ('Henry', 'Bruce')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Harry': 0, 'Peter': 86, 'Ben': 32, 'Jack': 81, 'Tod': 82, 'James': 68, 'Sam': 42, 'Bob': 25, 'Henry': 2, 'Rob': 38, 'Bruce': 93, 'Jim': 1}, 'answer': ('Harry', 'Bruce')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 36, 'Bob': 52, 'Tod': 55, 'Henry': 13, 'Peter': 41, 'Ben': 61, 'Jack': 25, 'James': 56, 'Sam': 33, 'Bruce': 12, 'Jim': 7, 'Harry': 98}, 'answer': ('Jim', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 42, 'Sam': 68, 'Henry': 65, 'Jim': 93, 'Jack': 26, 'Rob': 61, 'Bruce': 36, 'Harry': 54, 'Tod': 52, 'James': 20, 'Ben': 38, 'Bob': 97}, 'answer': ('James', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 8, 'Bob': 70, 'Peter': 41, 'Ben': 73, 'Bruce': 0, 'Tod': 41, 'Rob': 50, 'Sam': 83, 'Jim': 88, 'Jack': 33, 'Harry': 82, 'Henry': 3}, 'answer': ('Bruce', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 37, 'Jack': 65, 'Sam': 86, 'Peter': 44, 'Ben': 62, 'Harry': 91, 'Jim': 8, 'Bruce': 7, 'Bob': 77, 'Henry': 21, 'James': 38, 'Tod': 80}, 'answer': ('Bruce', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 47, 'Sam': 44, 'Ben': 52, 'Bob': 11, 'Harry': 76, 'Jack': 73, 'Tod': 44, 'Peter': 22, 'Bruce': 41, 'Rob': 25, 'Jim': 6, 'Henry': 3}, 'answer': ('Henry', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 16, 'Bob': 26, 'Henry': 39, 'Jim': 82, 'Bruce': 56, 'Harry': 85, 'Tod': 61, 'Rob': 22, 'Ben': 8, 'Sam': 8, 'James': 0, 'Peter': 42}, 'answer': ('James', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jim': 7, 'Tod': 68, 'Henry': 67, 'Harry': 84, 'James': 83, 'Bruce': 64, 'Peter': 26, 'Sam': 1, 'Ben': 41, 'Bob': 82, 'Rob': 12, 'Jack': 33}, 'answer': ('Sam', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Henry': 36, 'Bob': 41, 'Harry': 87, 'Bruce': 59, 'James': 2, 'Tod': 77, 'Jack': 89, 'Jim': 4, 'Sam': 61, 'Rob': 37, 'Peter': 15, 'Ben': 52}, 'answer': ('James', 'Jack')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 62, 'Ben': 41, 'Henry': 92, 'Rob': 13, 'Bruce': 11, 'Jim': 88, 'James': 82, 'Bob': 47, 'Peter': 91, 'Jack': 61, 'Tod': 37, 'Harry': 38}, 'answer': ('Bruce', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 45, 'Ben': 87, 'Rob': 48, 'Jack': 44, 'Harry': 0, 'Sam': 24, 'Peter': 70, 'Henry': 29, 'Tod': 83, 'Bob': 50, 'Jim': 75, 'James': 89}, 'answer': ('Harry', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 84, 'Ben': 92, 'Jack': 11, 'Tod': 50, 'Bob': 41, 'Henry': 69, 'Sam': 20, 'Bruce': 12, 'Rob': 47, 'Jim': 13, 'James': 36, 'Harry': 95}, 'answer': ('Jack', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bob': 50, 'James': 14, 'Henry': 95, 'Harry': 41, 'Bruce': 92, 'Jim': 71, 'Peter': 58, 'Tod': 3, 'Rob': 54, 'Jack': 3, 'Sam': 51, 'Ben': 33}, 'answer': ('Tod', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 87, 'Tod': 22, 'Bruce': 9, 'James': 19, 'Jack': 27, 'Bob': 80, 'Henry': 97, 'Ben': 60, 'Sam': 23, 'Jim': 67, 'Harry': 8, 'Rob': 98}, 'answer': ('Harry', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 20, 'Peter': 12, 'Harry': 91, 'Jack': 74, 'Henry': 14, 'James': 3, 'Jim': 76, 'Bob': 83, 'Rob': 15, 'Tod': 3, 'Ben': 59, 'Bruce': 10}, 'answer': ('James', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 5, 'James': 98, 'Henry': 22, 'Peter': 24, 'Tod': 4, 'Rob': 74, 'Ben': 79, 'Harry': 68, 'Jack': 18, 'Jim': 98, 'Bruce': 88, 'Bob': 2}, 'answer': ('Bob', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 34, 'Peter': 23, 'Tod': 98, 'Henry': 48, 'Bruce': 34, 'Ben': 83, 'Bob': 90, 'Jim': 28, 'James': 18, 'Jack': 91, 'Sam': 17, 'Harry': 90}, 'answer': ('Sam', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bob': 10, 'Tod': 41, 'Jim': 39, 'Peter': 21, 'Ben': 69, 'Henry': 4, 'Bruce': 70, 'Rob': 12, 'Jack': 37, 'Harry': 5, 'James': 84, 'Sam': 29}, 'answer': ('Henry', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 51, 'Harry': 40, 'Sam': 28, 'Jack': 58, 'Jim': 0, 'Ben': 93, 'James': 91, 'Rob': 61, 'Henry': 65, 'Bob': 32, 'Bruce': 15, 'Tod': 95}, 'answer': ('Jim', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 48, 'Rob': 86, 'Tod': 23, 'Jim': 51, 'James': 75, 'Peter': 25, 'Bob': 72, 'Jack': 56, 'Sam': 83, 'Harry': 48, 'Henry': 54, 'Ben': 18}, 'answer': ('Ben', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 18, 'Bruce': 90, 'Ben': 74, 'James': 99, 'Bob': 13, 'Jim': 13, 'Henry': 41, 'Rob': 38, 'Peter': 46, 'Harry': 22, 'Jack': 79, 'Tod': 72}, 'answer': ('Bob', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 1, 'Jack': 61, 'Bob': 21, 'Bruce': 45, 'Harry': 70, 'Sam': 91, 'Peter': 28, 'Henry': 2, 'Jim': 42, 'Ben': 85, 'James': 42, 'Tod': 27}, 'answer': ('Rob', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bob': 56, 'Rob': 15, 'Henry': 83, 'Peter': 72, 'James': 0, 'Tod': 66, 'Ben': 42, 'Sam': 69, 'Harry': 7, 'Jim': 10, 'Jack': 13, 'Bruce': 54}, 'answer': ('James', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Henry': 19, 'Peter': 77, 'Ben': 1, 'Bob': 92, 'Rob': 57, 'Tod': 65, 'Sam': 85, 'James': 64, 'Jack': 21, 'Jim': 62, 'Bruce': 94, 'Harry': 67}, 'answer': ('Ben', 'Bruce')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 50, 'Ben': 32, 'Bruce': 30, 'Henry': 79, 'Jack': 7, 'Harry': 91, 'Peter': 79, 'Jim': 70, 'Tod': 35, 'Bob': 6, 'James': 81, 'Sam': 57}, 'answer': ('Bob', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Ben': 35, 'Jack': 71, 'Harry': 8, 'Tod': 25, 'James': 46, 'Peter': 14, 'Rob': 63, 'Jim': 41, 'Sam': 45, 'Bruce': 72, 'Bob': 73, 'Henry': 0}, 'answer': ('Henry', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 66, 'Rob': 1, 'Sam': 84, 'Peter': 15, 'Harry': 45, 'Jack': 12, 'Henry': 59, 'Bruce': 84, 'James': 25, 'Ben': 37, 'Jim': 100, 'Bob': 64}, 'answer': ('Rob', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 80, 'Sam': 87, 'Bob': 73, 'James': 43, 'Henry': 27, 'Rob': 48, 'Jim': 34, 'Tod': 7, 'Harry': 89, 'Ben': 9, 'Jack': 20, 'Peter': 85}, 'answer': ('Tod', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 60, 'Jack': 36, 'James': 41, 'Bob': 4, 'Tod': 78, 'Harry': 96, 'Rob': 2, 'Henry': 29, 'Jim': 21, 'Sam': 38, 'Peter': 31, 'Ben': 88}, 'answer': ('Rob', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 87, 'Bruce': 1, 'Sam': 34, 'Jim': 24, 'Henry': 18, 'Ben': 0, 'Peter': 92, 'Bob': 87, 'Tod': 46, 'James': 91, 'Rob': 98, 'Harry': 98}, 'answer': ('Ben', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 60, 'Jack': 4, 'Bob': 69, 'James': 13, 'Henry': 97, 'Sam': 49, 'Peter': 36, 'Bruce': 43, 'Harry': 48, 'Ben': 20, 'Jim': 55, 'Tod': 93}, 'answer': ('Jack', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 71, 'Henry': 47, 'Rob': 59, 'Ben': 95, 'Sam': 100, 'Bob': 62, 'Tod': 29, 'Jack': 13, 'Bruce': 0, 'Peter': 63, 'Harry': 87, 'Jim': 48}, 'answer': ('Bruce', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 43, 'Peter': 58, 'Ben': 11, 'Jack': 53, 'Tod': 32, 'Henry': 22, 'Sam': 16, 'Bob': 58, 'Rob': 80, 'Harry': 25, 'Jim': 21, 'James': 6}, 'answer': ('James', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 98, 'Rob': 17, 'Sam': 77, 'Henry': 36, 'Jim': 96, 'Harry': 71, 'James': 75, 'Bruce': 60, 'Bob': 93, 'Jack': 63, 'Tod': 67, 'Ben': 21}, 'answer': ('Rob', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 18, 'Henry': 34, 'Jim': 23, 'Ben': 83, 'Rob': 92, 'Tod': 9, 'Peter': 59, 'Bob': 78, 'Jack': 87, 'Harry': 67, 'Sam': 88, 'James': 56}, 'answer': ('Tod', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 77, 'Harry': 86, 'Rob': 41, 'Bob': 62, 'Henry': 100, 'Jim': 21, 'Jack': 0, 'James': 6, 'Bruce': 74, 'Ben': 14, 'Peter': 93, 'Sam': 59}, 'answer': ('Jack', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 23, 'Peter': 77, 'Bob': 53, 'Tod': 80, 'Rob': 51, 'Jim': 18, 'Harry': 79, 'Sam': 13, 'Henry': 19, 'Ben': 35, 'Bruce': 52, 'James': 25}, 'answer': ('Sam', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jim': 75, 'Peter': 19, 'Rob': 61, 'Bruce': 3, 'Ben': 99, 'Jack': 10, 'James': 33, 'Henry': 27, 'Tod': 27, 'Sam': 90, 'Bob': 25, 'Harry': 17}, 'answer': ('Bruce', 'Ben')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 89, 'Bruce': 44, 'Peter': 32, 'Harry': 81, 'Ben': 65, 'Jack': 80, 'Tod': 87, 'Sam': 82, 'Jim': 86, 'Rob': 24, 'Bob': 78, 'Henry': 51}, 'answer': ('Rob', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 75, 'Henry': 85, 'Harry': 72, 'Peter': 71, 'Sam': 34, 'Rob': 84, 'James': 66, 'Bob': 8, 'Jack': 83, 'Ben': 45, 'Jim': 66, 'Bruce': 35}, 'answer': ('Bob', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 44, 'Jack': 27, 'Peter': 26, 'Rob': 88, 'Tod': 37, 'Ben': 3, 'James': 70, 'Harry': 48, 'Jim': 25, 'Sam': 60, 'Bob': 94, 'Henry': 100}, 'answer': ('Ben', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 6, 'Tod': 73, 'Jack': 31, 'Bob': 83, 'Bruce': 30, 'Sam': 83, 'Harry': 98, 'Peter': 43, 'Rob': 66, 'Jim': 70, 'Ben': 47, 'Henry': 21}, 'answer': ('James', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 84, 'Sam': 91, 'Jack': 25, 'James': 46, 'Peter': 39, 'Tod': 100, 'Ben': 1, 'Bob': 11, 'Rob': 23, 'Harry': 53, 'Jim': 8, 'Henry': 84}, 'answer': ('Ben', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Ben': 34, 'Sam': 48, 'Peter': 36, 'James': 93, 'Harry': 34, 'Bruce': 75, 'Jim': 83, 'Jack': 82, 'Henry': 28, 'Bob': 100, 'Rob': 32, 'Tod': 68}, 'answer': ('Henry', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 9, 'Tod': 75, 'James': 30, 'Sam': 60, 'Jim': 2, 'Harry': 36, 'Rob': 78, 'Ben': 80, 'Jack': 39, 'Bob': 69, 'Henry': 18, 'Bruce': 82}, 'answer': ('Jim', 'Bruce')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 91, 'Ben': 26, 'Henry': 3, 'Tod': 94, 'Bob': 50, 'Harry': 98, 'James': 23, 'Jack': 47, 'Sam': 86, 'Bruce': 84, 'Jim': 46, 'Rob': 21}, 'answer': ('Henry', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 74, 'James': 53, 'Henry': 15, 'Jim': 59, 'Jack': 37, 'Rob': 88, 'Harry': 50, 'Tod': 20, 'Bruce': 66, 'Ben': 50, 'Bob': 60, 'Sam': 95}, 'answer': ('Henry', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 78, 'Bob': 91, 'Rob': 89, 'Sam': 69, 'Peter': 0, 'Jack': 98, 'Ben': 94, 'Jim': 50, 'Tod': 57, 'Harry': 91, 'James': 2, 'Henry': 94}, 'answer': ('Peter', 'Jack')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Henry': 22, 'Jim': 55, 'Peter': 68, 'Tod': 15, 'James': 78, 'Bob': 3, 'Ben': 30, 'Bruce': 17, 'Sam': 8, 'Harry': 36, 'Jack': 52, 'Rob': 48}, 'answer': ('Bob', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 61, 'Jack': 87, 'Bruce': 65, 'Tod': 87, 'Jim': 15, 'Henry': 5, 'James': 85, 'Harry': 47, 'Rob': 87, 'Ben': 29, 'Peter': 41, 'Bob': 71}, 'answer': ('Henry', 'Jack')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 65, 'Peter': 0, 'Bob': 39, 'Harry': 1, 'Tod': 86, 'Bruce': 46, 'Ben': 47, 'Henry': 68, 'Jack': 67, 'Sam': 13, 'Rob': 24, 'Jim': 87}, 'answer': ('Peter', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 59, 'Harry': 15, 'Bruce': 19, 'Tod': 89, 'Rob': 14, 'Ben': 88, 'Bob': 0, 'Henry': 18, 'Jack': 13, 'Peter': 95, 'Jim': 61, 'James': 34}, 'answer': ('Bob', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 42, 'Sam': 38, 'Ben': 42, 'Harry': 95, 'Bob': 25, 'Rob': 61, 'Tod': 13, 'Henry': 45, 'Bruce': 36, 'Jim': 54, 'James': 72, 'Jack': 4}, 'answer': ('Jack', 'Harry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 63, 'James': 48, 'Tod': 49, 'Bruce': 56, 'Ben': 26, 'Peter': 12, 'Jack': 65, 'Sam': 4, 'Jim': 33, 'Bob': 43, 'Harry': 23, 'Henry': 25}, 'answer': ('Sam', 'Jack')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 27, 'Jim': 35, 'Harry': 92, 'Sam': 40, 'Bruce': 34, 'Peter': 75, 'James': 76, 'Bob': 83, 'Jack': 72, 'Ben': 4, 'Rob': 49, 'Henry': 94}, 'answer': ('Ben', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 87, 'Henry': 56, 'Harry': 38, 'Sam': 4, 'Peter': 40, 'Jim': 38, 'Ben': 11, 'Tod': 98, 'Rob': 16, 'Bob': 9, 'Jack': 24, 'Bruce': 11}, 'answer': ('Sam', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Ben': 50, 'Sam': 94, 'Henry': 90, 'Rob': 69, 'James': 47, 'Peter': 96, 'Harry': 92, 'Bob': 17, 'Tod': 56, 'Jack': 91, 'Jim': 53, 'Bruce': 91}, 'answer': ('Bob', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 85, 'James': 59, 'Henry': 15, 'Jim': 69, 'Bob': 0, 'Ben': 74, 'Jack': 76, 'Sam': 40, 'Bruce': 91, 'Peter': 57, 'Harry': 78, 'Rob': 6}, 'answer': ('Bob', 'Bruce')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 2, 'Bob': 57, 'James': 26, 'Jim': 62, 'Jack': 52, 'Sam': 53, 'Harry': 49, 'Ben': 63, 'Rob': 73, 'Henry': 97, 'Bruce': 29, 'Tod': 67}, 'answer': ('Peter', 'Henry')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bob': 84, 'Sam': 58, 'Tod': 20, 'Henry': 63, 'Harry': 0, 'Jim': 29, 'James': 48, 'Rob': 61, 'Peter': 70, 'Bruce': 3, 'Jack': 82, 'Ben': 62}, 'answer': ('Harry', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 85, 'Tod': 47, 'Peter': 9, 'Ben': 79, 'James': 31, 'Bruce': 53, 'Jim': 10, 'Bob': 50, 'Sam': 80, 'Henry': 14, 'Rob': 5, 'Harry': 6}, 'answer': ('Rob', 'Jack')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 49, 'Rob': 51, 'Tod': 16, 'Jack': 33, 'Ben': 45, 'Bruce': 78, 'Harry': 14, 'Jim': 85, 'Peter': 56, 'Bob': 98, 'James': 36, 'Henry': 51}, 'answer': ('Harry', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 58, 'Harry': 33, 'Ben': 10, 'Sam': 19, 'Peter': 99, 'Henry': 66, 'Tod': 83, 'James': 66, 'Jack': 99, 'Bruce': 61, 'Bob': 18, 'Jim': 84}, 'answer': ('Ben', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 67, 'Tod': 44, 'Jim': 88, 'Peter': 71, 'Ben': 85, 'James': 99, 'Sam': 100, 'Harry': 86, 'Henry': 61, 'Bob': 9, 'Rob': 61, 'Bruce': 36}, 'answer': ('Bob', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 35, 'Henry': 2, 'Tod': 50, 'Sam': 44, 'Bruce': 14, 'Peter': 50, 'Rob': 81, 'Bob': 33, 'Harry': 22, 'Ben': 41, 'Jim': 19, 'James': 11}, 'answer': ('Henry', 'Rob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 9, 'Tod': 44, 'Jim': 28, 'Peter': 41, 'Rob': 9, 'Bob': 9, 'Harry': 9, 'Sam': 71, 'Jack': 0, 'James': 27, 'Henry': 25, 'Ben': 23}, 'answer': ('Jack', 'Sam')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 34, 'Jack': 83, 'James': 80, 'Bruce': 52, 'Peter': 98, 'Henry': 11, 'Tod': 3, 'Rob': 13, 'Harry': 17, 'Jim': 54, 'Ben': 49, 'Bob': 59}, 'answer': ('Tod', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 99, 'Rob': 90, 'James': 8, 'Ben': 68, 'Tod': 8, 'Sam': 66, 'Bruce': 82, 'Bob': 37, 'Jim': 54, 'Harry': 4, 'Jack': 75, 'Henry': 68}, 'answer': ('Harry', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Jack': 43, 'Henry': 8, 'James': 60, 'Ben': 63, 'Jim': 85, 'Harry': 63, 'Bob': 68, 'Tod': 57, 'Rob': 36, 'Peter': 84, 'Bruce': 69, 'Sam': 27}, 'answer': ('Henry', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bruce': 14, 'James': 92, 'Tod': 18, 'Peter': 65, 'Henry': 50, 'Sam': 10, 'Ben': 13, 'Rob': 33, 'Bob': 85, 'Harry': 16, 'Jack': 69, 'Jim': 83}, 'answer': ('Sam', 'James')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 76, 'Bob': 29, 'Jack': 76, 'Bruce': 2, 'Jim': 78, 'Ben': 38, 'Rob': 16, 'Tod': 78, 'Henry': 0, 'Peter': 92, 'Harry': 62, 'James': 91}, 'answer': ('Henry', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Tod': 32, 'Bob': 85, 'Jack': 53, 'Henry': 46, 'Rob': 14, 'Bruce': 13, 'Ben': 91, 'Jim': 94, 'Peter': 28, 'James': 22, 'Sam': 54, 'Harry': 55}, 'answer': ('Bruce', 'Jim')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 13, 'Bruce': 0, 'Ben': 21, 'Harry': 9, 'Jim': 15, 'Peter': 62, 'Tod': 76, 'Bob': 34, 'James': 19, 'Henry': 71, 'Rob': 23, 'Jack': 52}, 'answer': ('Bruce', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Sam': 22, 'Rob': 23, 'Ben': 61, 'Henry': 33, 'James': 13, 'Harry': 48, 'Peter': 49, 'Bruce': 89, 'Tod': 91, 'Jim': 5, 'Bob': 71, 'Jack': 70}, 'answer': ('Jim', 'Tod')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Rob': 77, 'Ben': 46, 'Jack': 62, 'Peter': 57, 'Harry': 31, 'James': 68, 'Jim': 22, 'Bruce': 18, 'Sam': 90, 'Bob': 92, 'Tod': 78, 'Henry': 89}, 'answer': ('Bruce', 'Bob')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'James': 74, 'Bob': 57, 'Tod': 83, 'Peter': 85, 'Jack': 24, 'Harry': 65, 'Rob': 27, 'Ben': 9, 'Bruce': 11, 'Sam': 18, 'Henry': 85, 'Jim': 69}, 'answer': ('Ben', 'Peter')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Peter': 31, 'Tod': 8, 'Ben': 53, 'Bob': 25, 'Harry': 23, 'Henry': 38, 'Bruce': 97, 'Jim': 68, 'Rob': 89, 'Sam': 50, 'James': 42, 'Jack': 0}, 'answer': ('Jack', 'Bruce')}
+{'name': 'Best_and_worst', 'info': 'Given a dictionary of names and scores, return the names of the best and worst performers in format (worst, best)', 'payload': {'Bob': 94, 'Henry': 27, 'James': 16, 'Tod': 15, 'Rob': 71, 'Jack': 22, 'Bruce': 55, 'Harry': 82, 'Ben': 2, 'Peter': 13, 'Jim': 4, 'Sam': 26}, 'answer': ('Ben', 'Bob')}

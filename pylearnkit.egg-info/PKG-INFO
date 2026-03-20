@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: pylearnkit
+Version: 0.1.0
+Summary: Task loading and checking utilities for Python practice notebooks.
+Requires-Python: >=3.10
