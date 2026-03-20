@@ -1,7 +1,7 @@
 def init():
     print("import pylearnkit")
     print()
-    print('tasks = pylearnkit.load("../tasks/tasks1.txt")')
+    print('tasks = pylearnkit.load("tasks1.txt")')
     print()
     print("# your code goes here")
     print()
