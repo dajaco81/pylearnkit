@@ -48,12 +48,13 @@ def check(namespace):
     def run_checks(tasks, namespace, totals, order):
         results = {name: {"total": total, "correct": 0} for name, total in totals.items()}
         missing_task = None
+        crashed_task = None
         current_index = 0
         current_name = order[current_index]
         for task in tasks:
             name = task["name"]
             if name != current_name:
-                if missing_task is not None:
+                if missing_task is not None or crashed_task is not None:
                     break
                 if results[current_name]["correct"] != totals[current_name]:
                     break
@@ -62,11 +63,17 @@ def check(namespace):
             if name not in namespace:
                 missing_task = task
                 break
-            result = namespace[name](task["payload"])
+            try:
+                result = namespace[name](task["payload"])
+            except Exception as error:
+                task["error_type"] = type(error).__name__
+                task["error_message"] = str(error) or repr(error)
+                crashed_task = task
+                break
             task["result"] = result
             if result == task["answer"]:
                 results[name]["correct"] += 1
-        return results, missing_task
+        return results, missing_task, crashed_task
     
     def print_results(order, results, name_width):
         for i, name in enumerate(order, start=1):
@@ -91,10 +98,21 @@ def check(namespace):
             f"(got {failed_task['result']})"
         )
 
+    def print_crashed_task(order, crashed_task, name_width):
+        print()
+        completed = order.index(crashed_task["name"])
+        print(f"[{completed+1:02}] {crashed_task['name']:<{name_width}} crashed")
+        print(f"info: {crashed_task['info']}")
+        print(f"payload: {crashed_task['payload']}")
+        print(
+            f"error: {crashed_task['error_type']}: "
+            f"{crashed_task['error_message']}"
+        )
+
     tasks = namespace["tasks"]
     order, totals = task_totals(tasks)
     name_width = task_name_width(order)
-    results, missing_task = run_checks(tasks, namespace, totals, order)
+    results, missing_task, crashed_task = run_checks(tasks, namespace, totals, order)
     fail_count = sum(1 for name in order if results[name]["correct"] != results[name]["total"])
     total_count = len(order)
     if missing_task is not None:
@@ -104,6 +122,9 @@ def check(namespace):
         return
     print_results(order, results, name_width)
     print()
+    if crashed_task is not None:
+        print_crashed_task(order, crashed_task, name_width)
+        return
     if fail_count:
         failed_task = next(task for task in tasks if task.get("result") != task["answer"])
         print_failed_task(order, failed_task, name_width)
